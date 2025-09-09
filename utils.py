@@ -1,7 +1,7 @@
 import torch
 import io, math, os, glob
 
-def save_checkpoint_split(state_dict: dict, prefix: str = "ckpt", max_size_mb: int = 90) -> None:
+def save_checkpoint_split(state_dict: dict, prefix: str = "ckpt", max_size_mb: int = 50) -> None:
     """
     Save a PyTorch checkpoint into multiple files sized < max_size_mb each.
     Creates files: {prefix}.part0, {prefix}.part1, ...

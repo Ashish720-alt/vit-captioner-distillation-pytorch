@@ -221,5 +221,5 @@ def run_training(
 
     # Use save_path (minus .pt) as prefix for parts, e.g., "ckpt" -> "ckpt.part0"
     prefix = save_path[:-3] if save_path.endswith(".pt") else save_path
-    save_checkpoint_split(state, prefix=prefix, max_size_mb=90)
+    save_checkpoint_split(state, prefix=prefix, max_size_mb=50)
     print(f"Saved split checkpoint with prefix '{prefix}.part*'")
