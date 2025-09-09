@@ -9,7 +9,7 @@ def parse_args():
     p.add_argument("--epochs", type=int, default=1)
     p.add_argument("--batch", type=int, default=8)
     p.add_argument("--device", default="cpu")
-    p.add_argument("--save", default="ckpt.pt") #.pt file is standard default file pytorch used to save model weights and tensors
+    p.add_argument("--save", default="ckpt.pt") #.pt file ( we split into multiple files each < 100 MB for github requirements!) is standard default file pytorch used to save model weights and tensors
     p.add_argument("--num_workers", type=int, default=2) #Use more than 1 thread for data parallelism, not model parallelism.
     # quick sanity options:
     p.add_argument("--max_train_batches", type=int, default=50, #TODO: Change this to None

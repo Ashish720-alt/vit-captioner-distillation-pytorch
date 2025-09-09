@@ -10,7 +10,7 @@ from dataset import Flickr8kDataset, collate_pad
 from models.student_vit import TinyViTStudent
 from models.decoder import CausalDecoder
 from distillation import cosine_distill
-from utils import greedy_decode
+from utils import greedy_decode, save_checkpoint_split
 
 class Cfg: #Cfg == config
     # ----------------------------
@@ -213,10 +213,13 @@ def run_training(
                 if printed >= max_val_batches:
                     break
 
-    torch.save(
-        {"student": student.state_dict(),
-         "decoder": decoder.state_dict(),
-         "tokenizer": tokenizer.get_vocab()},
-        save_path
-    )
-    print("Saved ->", save_path)
+    state = {
+        "student": student.state_dict(),
+        "decoder": decoder.state_dict(),
+        "tokenizer": tokenizer.get_vocab(),
+    }
+
+    # Use save_path (minus .pt) as prefix for parts, e.g., "ckpt" -> "ckpt.part0"
+    prefix = save_path[:-3] if save_path.endswith(".pt") else save_path
+    save_checkpoint_split(state, prefix=prefix, max_size_mb=90)
+    print(f"Saved split checkpoint with prefix '{prefix}.part*'")
