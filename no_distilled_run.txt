@@ -1,0 +1,2508 @@
+[dataset] Parsed 40455 pairs from 40456 lines; 0 lines had missing files.
+[dataset] Loaded 40455 (image, caption) pairs
+
+[train] Epoch 1/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=6.5492  L_dis=0.0000  total=6.5492  avg=8.1191
+[train] batch 100/285  L_cap=5.5771  L_dis=0.0000  total=5.5771  avg=7.0583
+[train] batch 150/285  L_cap=5.4891  L_dis=0.0000  total=5.4891  avg=6.5385
+[train] batch 200/285  L_cap=5.1526  L_dis=0.0000  total=5.1526  avg=6.2176
+[train] batch 250/285  L_cap=5.0300  L_dis=0.0000  total=5.0300  avg=5.9936
+[train] batch 285/285  L_cap=4.9753  L_dis=0.0000  total=4.9753  avg=5.8748
+[train] Epoch 1 done  avg_loss=5.8748
+[val sample] A man in a red shirt is standing on a red and a red shirt .
+[val sample] A man in a red shirt is standing on a red and a red shirt .
+[val sample] A man in a red shirt is standing on a red and a red shirt .
+[val sample] A man in a red shirt is jumping on a red and a red shirt .
+[val sample] A man in a blue shirt is jumping a man in a red shirt .
+[val sample] A man in a red shirt is jumping a man in a red shirt .
+[val sample] A man in a red shirt is standing on a red and a red shirt .
+[val sample] A man in a red shirt is standing on a red and a red shirt .
+[val sample] A man in a red shirt is standing on a red and a red shirt .
+[val sample] A man in a red shirt is jumping a man in a red shirt .
+[val sample] A man in a blue shirt is jumping on a red and a red shirt .
+[val sample] A man in a blue shirt is jumping on a red and a red shirt .
+[val sample] A man in a red shirt is jumping a man in a red shirt .
+[val sample] A man in a red shirt is jumping on a red and a red shirt .
+[val sample] A man in a red shirt is standing on a red and a red shirt .
+
+[train] Epoch 2/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=4.7520  L_dis=0.0000  total=4.7520  avg=4.8932
+[train] batch 100/285  L_cap=4.9317  L_dis=0.0000  total=4.9317  avg=4.8432
+[train] batch 150/285  L_cap=4.7374  L_dis=0.0000  total=4.7374  avg=4.8085
+[train] batch 200/285  L_cap=4.6665  L_dis=0.0000  total=4.6665  avg=4.7779
+[train] batch 250/285  L_cap=4.7407  L_dis=0.0000  total=4.7407  avg=4.7484
+[train] batch 285/285  L_cap=4.5728  L_dis=0.0000  total=4.5728  avg=4.7261
+[train] Epoch 2 done  avg_loss=4.7261
+[val sample] A man in a red shirt and a woman in a blue shirt and a red shirt and a woman in a red shirt and a red and white shirt and
+[val sample] A man in a red shirt is standing on a bench .
+[val sample] A man in a red shirt is standing on a red street .
+[val sample] A man in a red shirt is standing on a beach .
+[val sample] A man in a blue shirt is standing on a bike .
+[val sample] A man in a red shirt is standing on a bench .
+[val sample] A man in a red shirt is standing on a street .
+[val sample] A man in a black shirt and white shirt is standing on a rock .
+[val sample] A man in a red shirt is standing on a bench .
+[val sample] A man in a red shirt is standing on a bench .
+[val sample] A man in a blue shirt is standing on a dirt bike .
+[val sample] A man in a black shirt is jumping a large rock .
+[val sample] A man in a red shirt is standing on a bench .
+[val sample] A man in a red shirt is standing on a bench .
+[val sample] A man in a red shirt and a woman in a red shirt and a red shirt and a woman in a red shirt is standing in a red shirt and
+
+[train] Epoch 3/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=4.4373  L_dis=0.0000  total=4.4373  avg=4.5078
+[train] batch 100/285  L_cap=4.5817  L_dis=0.0000  total=4.5817  avg=4.4902
+[train] batch 150/285  L_cap=4.4220  L_dis=0.0000  total=4.4220  avg=4.4760
+[train] batch 200/285  L_cap=4.4624  L_dis=0.0000  total=4.4624  avg=4.4592
+[train] batch 250/285  L_cap=4.4794  L_dis=0.0000  total=4.4794  avg=4.4465
+[train] batch 285/285  L_cap=4.2248  L_dis=0.0000  total=4.2248  avg=4.4352
+[train] Epoch 3 done  avg_loss=4.4352
+[val sample] A man in a black shirt and a woman in a blue shirt and a black shirt and white shirt and black hat is sitting on a man in a man
+[val sample] A man in a black shirt and a woman in a blue shirt and a black shirt and white shirt and black hat is sitting on a man in a man
+[val sample] A man in a red shirt is standing on a beach .
+[val sample] A man in a white shirt and a woman in a blue shirt and a black shirt and white shirt and white shirt is standing on a man in a man
+[val sample] A man in a black shirt and a woman in a blue shirt and a black shirt is sitting on a skateboard .
+[val sample] A man in a black shirt and a woman in a blue shirt and a black shirt and white shirt and white shirt is sitting on a man in a man
+[val sample] A man in a red shirt and a woman in a red shirt and a red shirt is holding a red shirt .
+[val sample] A man in a black shirt and a woman wearing a black shirt and a black shirt and white shirt and black hat is sitting on a white shirt .
+[val sample] A man in a blue shirt and a woman in a blue shirt and a blue shirt is sitting on a skateboard .
+[val sample] A man in a red shirt is standing on a bench .
+[val sample] A man in a blue shirt is standing on a beach .
+[val sample] A dog is running through a field .
+[val sample] A man in a blue shirt and a woman in a blue shirt and a black shirt and white shirt and black hat is sitting on a man in a man
+[val sample] A man in a red shirt is jumping over a red ball .
+[val sample] A man in a red shirt and a woman in a red shirt and a red shirt .
+
+[train] Epoch 4/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=4.3068  L_dis=0.0000  total=4.3068  avg=4.2876
+[train] batch 100/285  L_cap=4.2411  L_dis=0.0000  total=4.2411  avg=4.2757
+[train] batch 150/285  L_cap=4.3021  L_dis=0.0000  total=4.3021  avg=4.2774
+[train] batch 200/285  L_cap=4.2703  L_dis=0.0000  total=4.2703  avg=4.2655
+[train] batch 250/285  L_cap=4.2829  L_dis=0.0000  total=4.2829  avg=4.2549
+[train] batch 285/285  L_cap=4.1221  L_dis=0.0000  total=4.1221  avg=4.2488
+[train] Epoch 4 done  avg_loss=4.2488
+[val sample] A man and a woman are standing in front of a crowd .
+[val sample] A man in a red shirt and black shirt is standing in front of a crowd of people .
+[val sample] A young girl in a red shirt is standing on a red bench .
+[val sample] A man in a red shirt and white shirt is standing on a sidewalk .
+[val sample] A man in a blue shirt and a woman in a blue jacket is standing on a bench .
+[val sample] A man and a woman are standing on a bench .
+[val sample] A man in a red shirt and black shirt is standing in front of a crowd of people .
+[val sample] A man in a black shirt and a woman in a black jacket and a white shirt is standing in a crowd .
+[val sample] A young boy in a blue shirt is standing on a red bench .
+[val sample] A man in a red shirt and a woman in a red shirt and a red shirt is playing a ball .
+[val sample] A young boy is playing with a blue ball in the background .
+[val sample] A dog is running through a grassy field .
+[val sample] A man and a woman are standing in front of a crowd .
+[val sample] A little girl in a red shirt is running on a grassy field .
+[val sample] A man in a red shirt and a woman in a red shirt and a red shirt .
+
+[train] Epoch 5/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=4.1792  L_dis=0.0000  total=4.1792  avg=4.1433
+[train] batch 100/285  L_cap=4.0204  L_dis=0.0000  total=4.0204  avg=4.1329
+[train] batch 150/285  L_cap=4.1000  L_dis=0.0000  total=4.1000  avg=4.1309
+[train] batch 200/285  L_cap=3.9853  L_dis=0.0000  total=3.9853  avg=4.1212
+[train] batch 250/285  L_cap=4.0667  L_dis=0.0000  total=4.0667  avg=4.1169
+[train] batch 285/285  L_cap=3.9888  L_dis=0.0000  total=3.9888  avg=4.1106
+[train] Epoch 5 done  avg_loss=4.1106
+[val sample] A man in a blue shirt is standing in front of a crowd of people .
+[val sample] A man in a red shirt is standing in front of a crowd of people .
+[val sample] A man in a red shirt is standing on a rock wall .
+[val sample] A man in a white shirt and a woman in a black jacket is standing on a street .
+[val sample] A man in a blue shirt is standing in front of a building .
+[val sample] A man in a white shirt and a woman in a white shirt and a woman in a white shirt .
+[val sample] A man in a red shirt is standing in front of a crowd of people .
+[val sample] A man in a black shirt is standing in front of a building .
+[val sample] A man in a red shirt is standing on a rock wall .
+[val sample] A man in a red shirt is standing on a rock wall .
+[val sample] A man in a blue shirt is sitting on a bench .
+[val sample] A black dog is running through a grassy field .
+[val sample] A man in a blue shirt is standing in front of a crowd of people .
+[val sample] A girl in a pink shirt is playing with a pink toy .
+[val sample] A man in a red shirt is sitting on a bench .
+
+[train] Epoch 6/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=4.0171  L_dis=0.0000  total=4.0171  avg=3.9921
+[train] batch 100/285  L_cap=3.9392  L_dis=0.0000  total=3.9392  avg=3.9956
+[train] batch 150/285  L_cap=4.0149  L_dis=0.0000  total=4.0149  avg=4.0002
+[train] batch 200/285  L_cap=4.1059  L_dis=0.0000  total=4.1059  avg=4.0012
+[train] batch 250/285  L_cap=3.9426  L_dis=0.0000  total=3.9426  avg=4.0002
+[train] batch 285/285  L_cap=3.9338  L_dis=0.0000  total=3.9338  avg=3.9979
+[train] Epoch 6 done  avg_loss=3.9979
+[val sample] A man in a blue shirt and a black jacket is standing in front of a crowd .
+[val sample] A man in a red shirt is standing in front of a crowd .
+[val sample] A man in a red shirt is standing on a rock .
+[val sample] A man in a white shirt and black pants is standing on a rock wall .
+[val sample] A man in a white shirt and black pants is standing on a rock wall .
+[val sample] A man in a white shirt and a black shirt is standing in front of a building .
+[val sample] A man in a red shirt and black pants is standing in front of a crowd of people .
+[val sample] A man in a black shirt and white shirt is standing in front of a building .
+[val sample] A man in a red shirt is standing on a rock .
+[val sample] A man in a red shirt is standing on a rock .
+[val sample] A young boy is jumping into a pool .
+[val sample] A black dog is running through a grassy field .
+[val sample] A man in a blue shirt and a black shirt is standing in front of a crowd .
+[val sample] A little girl in a pink dress is running through a field .
+[val sample] A young girl in a pink dress is standing in a chair .
+
+[train] Epoch 7/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.8527  L_dis=0.0000  total=3.8527  avg=3.8942
+[train] batch 100/285  L_cap=3.9985  L_dis=0.0000  total=3.9985  avg=3.9009
+[train] batch 150/285  L_cap=3.8697  L_dis=0.0000  total=3.8697  avg=3.8998
+[train] batch 200/285  L_cap=3.9383  L_dis=0.0000  total=3.9383  avg=3.9023
+[train] batch 250/285  L_cap=3.9124  L_dis=0.0000  total=3.9124  avg=3.9016
+[train] batch 285/285  L_cap=3.7574  L_dis=0.0000  total=3.7574  avg=3.9003
+[train] Epoch 7 done  avg_loss=3.9003
+[val sample] A man in a blue shirt and black jacket is standing on a bench .
+[val sample] A man in a red shirt is standing in front of a crowd .
+[val sample] A man in a red shirt is riding a bike through a water fountain .
+[val sample] A man in a white shirt and black shirt is standing on a street .
+[val sample] A man in a black shirt and white shirt is standing on a rock .
+[val sample] A man in a white shirt and black shirt is standing on a bench .
+[val sample] A man in a blue shirt and a woman in a black jacket .
+[val sample] A man in a black shirt and white shirt is standing in front of a crowd .
+[val sample] A man in a red shirt is riding a bike down a dirt road .
+[val sample] A man in a blue shirt and white uniform is playing a soccer ball .
+[val sample] A boy in a blue shirt is jumping into a pool .
+[val sample] A dog is running through a grassy field .
+[val sample] A man in a blue shirt and blue jeans is sitting on a bench .
+[val sample] A girl in a pink dress is jumping into a swimming pool .
+[val sample] A man in a red shirt is sitting on a bench .
+
+[train] Epoch 8/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.7176  L_dis=0.0000  total=3.7176  avg=3.8030
+[train] batch 100/285  L_cap=3.8098  L_dis=0.0000  total=3.8098  avg=3.8007
+[train] batch 150/285  L_cap=3.8234  L_dis=0.0000  total=3.8234  avg=3.8090
+[train] batch 200/285  L_cap=3.8646  L_dis=0.0000  total=3.8646  avg=3.8112
+[train] batch 250/285  L_cap=3.7864  L_dis=0.0000  total=3.7864  avg=3.8102
+[train] batch 285/285  L_cap=3.8841  L_dis=0.0000  total=3.8841  avg=3.8098
+[train] Epoch 8 done  avg_loss=3.8098
+[val sample] A man in a blue shirt and black shorts is standing in front of a building .
+[val sample] A man in a red shirt is standing in front of a crowd of people .
+[val sample] A man in a red shirt is riding a bike on a dirt road .
+[val sample] A man in a white shirt and black shorts is standing on a street .
+[val sample] A man in a black shirt is standing on a sidewalk .
+[val sample] A man and a woman are sitting on a bench .
+[val sample] A man in a black shirt and white shirt is standing in front of a crowd of people .
+[val sample] A man in a black shirt and white shirt is standing in front of a crowd of people .
+[val sample] A boy in a red shirt is jumping off a ramp .
+[val sample] A boy in a baseball uniform is playing a game .
+[val sample] A boy in a blue shirt is jumping into a pool .
+[val sample] A black dog is running through a grassy field .
+[val sample] A man in a blue shirt and a woman in a black jacket is sitting on a bench .
+[val sample] A dog is running through a field .
+[val sample] A girl in a pink shirt is smiling .
+
+[train] Epoch 9/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.6635  L_dis=0.0000  total=3.6635  avg=3.7300
+[train] batch 100/285  L_cap=3.6189  L_dis=0.0000  total=3.6189  avg=3.7260
+[train] batch 150/285  L_cap=3.7967  L_dis=0.0000  total=3.7967  avg=3.7233
+[train] batch 200/285  L_cap=3.7641  L_dis=0.0000  total=3.7641  avg=3.7230
+[train] batch 250/285  L_cap=3.7110  L_dis=0.0000  total=3.7110  avg=3.7270
+[train] batch 285/285  L_cap=3.6712  L_dis=0.0000  total=3.6712  avg=3.7275
+[train] Epoch 9 done  avg_loss=3.7275
+[val sample] A man in a blue shirt and a woman in a black jacket is standing on a street .
+[val sample] A man in a red shirt is standing in front of a crowd .
+[val sample] A boy in a red shirt is jumping off a ramp .
+[val sample] A man and a woman are standing on a sidewalk .
+[val sample] A man in a black shirt is riding a bicycle on a skateboard .
+[val sample] A man in a blue shirt and a woman in a black dress .
+[val sample] A man in a blue shirt and a woman in a black dress .
+[val sample] A man and a woman are sitting on a bench .
+[val sample] A boy in a red shirt is jumping off a ramp .
+[val sample] A football player in a red uniform is being tackled by the player in a red uniform .
+[val sample] A woman in a blue shirt is sitting on a bench .
+[val sample] A dog runs through the grass .
+[val sample] A man in a blue shirt and a woman in a blue dress .
+[val sample] A dog is running through a field .
+[val sample] A girl in a pink dress is jumping on a trampoline .
+
+[train] Epoch 10/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.7111  L_dis=0.0000  total=3.7111  avg=3.6369
+[train] batch 100/285  L_cap=3.5652  L_dis=0.0000  total=3.5652  avg=3.6395
+[train] batch 150/285  L_cap=3.5805  L_dis=0.0000  total=3.5805  avg=3.6409
+[train] batch 200/285  L_cap=3.5839  L_dis=0.0000  total=3.5839  avg=3.6457
+[train] batch 250/285  L_cap=3.6201  L_dis=0.0000  total=3.6201  avg=3.6473
+[train] batch 285/285  L_cap=3.7262  L_dis=0.0000  total=3.7262  avg=3.6479
+[train] Epoch 10 done  avg_loss=3.6479
+[val sample] A man is standing on a sidewalk with a woman in a black jacket and a white shirt .
+[val sample] A man in a red shirt is standing in front of a crowd of people .
+[val sample] A boy in a red shirt is jumping into a pool .
+[val sample] A man is standing on a sidewalk with a woman in a white dress .
+[val sample] A man is standing on a rock in front of a building .
+[val sample] A man is standing on a sidewalk with a woman in a green shirt .
+[val sample] A man in a blue shirt and a woman in a black jacket is standing on a street .
+[val sample] A man in a black shirt and a woman in a black jacket is standing on a street .
+[val sample] A boy in a red shirt is jumping on a bed .
+[val sample] A boy in a baseball uniform is playing a baseball game .
+[val sample] A woman in a blue shirt and a woman in a blue shirt .
+[val sample] A black dog is running through a grassy area .
+[val sample] A man is standing in front of a large crowd .
+[val sample] A dog is running through a field .
+[val sample] A girl in a pink shirt is smiling .
+
+[train] Epoch 11/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.6227  L_dis=0.0000  total=3.6227  avg=3.5654
+[train] batch 100/285  L_cap=3.4920  L_dis=0.0000  total=3.4920  avg=3.5718
+[train] batch 150/285  L_cap=3.6330  L_dis=0.0000  total=3.6330  avg=3.5697
+[train] batch 200/285  L_cap=3.5616  L_dis=0.0000  total=3.5616  avg=3.5719
+[train] batch 250/285  L_cap=3.5360  L_dis=0.0000  total=3.5360  avg=3.5708
+[train] batch 285/285  L_cap=3.4289  L_dis=0.0000  total=3.4289  avg=3.5723
+[train] Epoch 11 done  avg_loss=3.5723
+[val sample] A man in a blue shirt and sunglasses is standing on a sidewalk .
+[val sample] A man in a red shirt is standing in front of a crowd of people .
+[val sample] A man in a red shirt is riding a red bicycle .
+[val sample] A man in a white shirt and a woman in a white dress .
+[val sample] A man in a black shirt is standing on a sidewalk in front of a building .
+[val sample] A man in a white shirt and sunglasses is standing in front of a building .
+[val sample] A man in a black shirt and sunglasses is standing in front of a crowd of people .
+[val sample] A man in a black shirt and a woman in a black dress .
+[val sample] A man in a blue shirt is standing on a hill .
+[val sample] A man in a baseball uniform is playing a baseball .
+[val sample] A young boy is jumping into a pool of water .
+[val sample] A black dog is running through a field .
+[val sample] A man in a blue shirt and hat is sitting on a bench with a shopping cart .
+[val sample] A dog is running through a field .
+[val sample] A girl in a pink shirt is smiling .
+
+[train] Epoch 12/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.5389  L_dis=0.0000  total=3.5389  avg=3.4818
+[train] batch 100/285  L_cap=3.5013  L_dis=0.0000  total=3.5013  avg=3.4820
+[train] batch 150/285  L_cap=3.4657  L_dis=0.0000  total=3.4657  avg=3.4875
+[train] batch 200/285  L_cap=3.4496  L_dis=0.0000  total=3.4496  avg=3.4959
+[train] batch 250/285  L_cap=3.5717  L_dis=0.0000  total=3.5717  avg=3.4975
+[train] batch 285/285  L_cap=3.4368  L_dis=0.0000  total=3.4368  avg=3.4988
+[train] Epoch 12 done  avg_loss=3.4988
+[val sample] A man in a blue shirt is standing on a sidewalk with a blue umbrella .
+[val sample] A man in a red shirt is standing in front of a white building .
+[val sample] A boy is jumping off a slide into a pool .
+[val sample] A woman in a white dress and a woman in a white dress .
+[val sample] A man is standing on a rock in front of a building .
+[val sample] A man in a blue shirt and a white shirt is standing on a sidewalk with a bench in the background .
+[val sample] A man in a purple shirt and a woman in a purple shirt .
+[val sample] A man in a black shirt and white shirt is standing on a rock wall .
+[val sample] A boy in a blue shirt is running on a beach .
+[val sample] A baseball player in a white uniform is running on the field .
+[val sample] A young girl is jumping into a pool .
+[val sample] A black dog is running on a grassy field .
+[val sample] A man in a blue shirt and a blue hat is standing next to a woman in a green jacket .
+[val sample] A brown dog is running through a field .
+[val sample] A girl in a pink shirt is sitting on a couch .
+
+[train] Epoch 13/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.4351  L_dis=0.0000  total=3.4351  avg=3.4218
+[train] batch 100/285  L_cap=3.4395  L_dis=0.0000  total=3.4395  avg=3.4168
+[train] batch 150/285  L_cap=3.4345  L_dis=0.0000  total=3.4345  avg=3.4205
+[train] batch 200/285  L_cap=3.4678  L_dis=0.0000  total=3.4678  avg=3.4232
+[train] batch 250/285  L_cap=3.4292  L_dis=0.0000  total=3.4292  avg=3.4261
+[train] batch 285/285  L_cap=3.4924  L_dis=0.0000  total=3.4924  avg=3.4277
+[train] Epoch 13 done  avg_loss=3.4277
+[val sample] A man in a blue shirt and a woman in a blue jacket is walking on a sidewalk .
+[val sample] A man in a red jacket is sitting on a bench with a man in a white shirt .
+[val sample] A boy in a red shirt is jumping over a red and white pole .
+[val sample] A woman in a white dress and a white dog are standing in front of a store .
+[val sample] A man in a black jacket is standing in front of a crowd of people .
+[val sample] A man with a Mohawk and a white shirt is sitting on a bench .
+[val sample] A man in a red shirt and black pants is holding a drink .
+[val sample] A woman in a black jacket and white shirt is sitting on a bench .
+[val sample] A boy in a red shirt is playing soccer on a field .
+[val sample] A baseball player in a white uniform is jumping over a hurdle .
+[val sample] A woman in a blue shirt is holding a camera .
+[val sample] A black dog is running through a grassy field .
+[val sample] A man and a woman are sitting on a bench outside a building .
+[val sample] A dog is running through a field .
+[val sample] A girl in a pink shirt is sitting on a couch .
+
+[train] Epoch 14/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.3559  L_dis=0.0000  total=3.3559  avg=3.3262
+[train] batch 100/285  L_cap=3.3669  L_dis=0.0000  total=3.3669  avg=3.3341
+[train] batch 150/285  L_cap=3.4163  L_dis=0.0000  total=3.4163  avg=3.3443
+[train] batch 200/285  L_cap=3.3024  L_dis=0.0000  total=3.3024  avg=3.3512
+[train] batch 250/285  L_cap=3.4371  L_dis=0.0000  total=3.4371  avg=3.3530
+[train] batch 285/285  L_cap=3.5493  L_dis=0.0000  total=3.5493  avg=3.3564
+[train] Epoch 14 done  avg_loss=3.3564
+[val sample] A man in a blue shirt is walking on a sidewalk .
+[val sample] A man in a white shirt and a man in a white shirt with a red bandanna in the background .
+[val sample] A little boy is playing on a red and white couch .
+[val sample] A woman in a white dress is sitting on a bench with a white and red brick building .
+[val sample] A man in a black shirt is standing in front of a brick wall .
+[val sample] A man and a woman are sitting on a bench with a table in the background .
+[val sample] A group of people are posing for a picture .
+[val sample] A man in a black shirt and white shirt is holding a drink .
+[val sample] A group of people are playing soccer on a field .
+[val sample] A baseball player in a white uniform is running on the field .
+[val sample] A group of people are playing in a pool .
+[val sample] A black dog is running through a field .
+[val sample] A man in a blue shirt and a woman in a blue jacket is sitting on a bench .
+[val sample] A dog in a pink sweater is running through a field .
+[val sample] A girl in a pink shirt is smiling .
+
+[train] Epoch 15/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.2407  L_dis=0.0000  total=3.2407  avg=3.2534
+[train] batch 100/285  L_cap=3.2275  L_dis=0.0000  total=3.2275  avg=3.2661
+[train] batch 150/285  L_cap=3.3150  L_dis=0.0000  total=3.3150  avg=3.2738
+[train] batch 200/285  L_cap=3.2659  L_dis=0.0000  total=3.2659  avg=3.2792
+[train] batch 250/285  L_cap=3.2564  L_dis=0.0000  total=3.2564  avg=3.2842
+[train] batch 285/285  L_cap=3.4475  L_dis=0.0000  total=3.4475  avg=3.2877
+[train] Epoch 15 done  avg_loss=3.2877
+[val sample] A man in a blue shirt is walking in a city street .
+[val sample] A man in a red jacket is holding a white balloon in front of a white building .
+[val sample] A boy in a red shirt is jumping over a red and white pole .
+[val sample] A woman in a white dress and a woman in a white dress .
+[val sample] A man is standing on a street with a crowd in the background .
+[val sample] A man and a woman are sitting on a bench with a dog .
+[val sample] A group of people are standing in front of a crowd of people .
+[val sample] A woman in a black shirt and white shirt is holding a camera .
+[val sample] Two men are playing soccer on a beach .
+[val sample] A baseball player in a white uniform is running with a ball .
+[val sample] A group of young boys are playing in a blue and white uniform .
+[val sample] A black dog is running through a grassy field .
+[val sample] Two girls are sitting on a bench with a green and yellow ball .
+[val sample] A dog in a pink shirt is running through a field .
+[val sample] A young girl in a pink shirt is smiling .
+
+[train] Epoch 16/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.2370  L_dis=0.0000  total=3.2370  avg=3.1963
+[train] batch 100/285  L_cap=3.2251  L_dis=0.0000  total=3.2251  avg=3.2025
+[train] batch 150/285  L_cap=3.2456  L_dis=0.0000  total=3.2456  avg=3.2066
+[train] batch 200/285  L_cap=3.3154  L_dis=0.0000  total=3.3154  avg=3.2155
+[train] batch 250/285  L_cap=3.2409  L_dis=0.0000  total=3.2409  avg=3.2170
+[train] batch 285/285  L_cap=3.2092  L_dis=0.0000  total=3.2092  avg=3.2217
+[train] Epoch 16 done  avg_loss=3.2217
+[val sample] A man in a blue shirt and shorts is standing in front of a building .
+[val sample] A man in a yellow shirt is playing a violin in a busy city .
+[val sample] A boy is jumping on a red couch .
+[val sample] A man in a white shirt and a woman in a white dress .
+[val sample] A man is standing on a rock in front of a building .
+[val sample] A woman with a camera on a sidewalk .
+[val sample] Two men in a crowd are posing for a picture
+[val sample] A man in a white shirt and sunglasses is standing in front of a crowd of people .
+[val sample] Two men in red shorts are playing soccer on a beach .
+[val sample] A baseball player in a red uniform is being hit by a baseball .
+[val sample] A man in a blue shirt and a woman in a blue shirt .
+[val sample] A black dog with a purple collar runs in the grass .
+[val sample] Two people sitting on a bench with a large tree behind them .
+[val sample] A dog in a pink sweater is running through a field .
+[val sample] A girl in a pink shirt is smiling .
+
+[train] Epoch 17/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.1273  L_dis=0.0000  total=3.1273  avg=3.1273
+[train] batch 100/285  L_cap=3.1764  L_dis=0.0000  total=3.1764  avg=3.1349
+[train] batch 150/285  L_cap=3.2616  L_dis=0.0000  total=3.2616  avg=3.1419
+[train] batch 200/285  L_cap=3.2403  L_dis=0.0000  total=3.2403  avg=3.1494
+[train] batch 250/285  L_cap=3.1629  L_dis=0.0000  total=3.1629  avg=3.1538
+[train] batch 285/285  L_cap=3.2331  L_dis=0.0000  total=3.2331  avg=3.1582
+[train] Epoch 17 done  avg_loss=3.1582
+[val sample] A man in a blue shirt and a woman in a blue shirt with a blue shirt and a boy in a blue shirt is standing on .
+[val sample] A man in a yellow shirt is standing in front of a white building .
+[val sample] A little boy is wearing a red shirt and a red shirt and is sitting on a bench .
+[val sample] A woman in a white dress is sitting on a bench with a woman in a white dress and a white dress .
+[val sample] A group of people sit on a bench .
+[val sample] A man and a woman are sitting on a bench outside a building .
+[val sample] Two men and a woman in front of a crowd .
+[val sample] A man and a woman in a dark room .
+[val sample] Two men playing soccer on a beach .
+[val sample] A baseball player is being tackled by a player in a baseball uniform .
+[val sample] A woman in a blue shirt and white cap is holding a white and black dog is wearing a blue shirt and a blue shirt is playing with a white and
+[val sample] A black dog with a pink collar is running .
+[val sample] Two people sit on a bench and a small child in a park .
+[val sample] A brown dog with a pink collar is running through the grass .
+[val sample] A little girl is sitting in a red plastic tubular .
+
+[train] Epoch 18/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.0800  L_dis=0.0000  total=3.0800  avg=3.0766
+[train] batch 100/285  L_cap=2.9820  L_dis=0.0000  total=2.9820  avg=3.0746
+[train] batch 150/285  L_cap=3.0578  L_dis=0.0000  total=3.0578  avg=3.0828
+[train] batch 200/285  L_cap=3.0926  L_dis=0.0000  total=3.0926  avg=3.0887
+[train] batch 250/285  L_cap=3.1097  L_dis=0.0000  total=3.1097  avg=3.0947
+[train] batch 285/285  L_cap=3.0609  L_dis=0.0000  total=3.0609  avg=3.0979
+[train] Epoch 18 done  avg_loss=3.0979
+[val sample] A group of people are walking down a street .
+[val sample] A man in a yellow shirt is standing in front of a store window .
+[val sample] A boy wearing a red shirt is jumping off a red and white wall .
+[val sample] A woman in a white dress is holding a cup and a baby and a woman in a white dress .
+[val sample] Two men are standing outside of a building .
+[val sample] Two women with their arms around each other and look at something off camera .
+[val sample] A group of people stand in front of a crowd .
+[val sample] A woman in a black dress and a woman in a white dress .
+[val sample] A man in a red shirt is running on the beach .
+[val sample] A baseball player in a white uniform is holding a bat while another player is holding a bat .
+[val sample] A woman in a blue shirt is holding a black and white dog .
+[val sample] A black dog is running through the grass .
+[val sample] Two women and a man are sitting on a bench with a dog .
+[val sample] A dog in a pink sweater is running through a field .
+[val sample] A young girl in a pink shirt is smiling while holding a pink object .
+
+[train] Epoch 19/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=3.0309  L_dis=0.0000  total=3.0309  avg=3.0056
+[train] batch 100/285  L_cap=3.0141  L_dis=0.0000  total=3.0141  avg=3.0159
+[train] batch 150/285  L_cap=3.0267  L_dis=0.0000  total=3.0267  avg=3.0245
+[train] batch 200/285  L_cap=3.1136  L_dis=0.0000  total=3.1136  avg=3.0339
+[train] batch 250/285  L_cap=2.9999  L_dis=0.0000  total=2.9999  avg=3.0385
+[train] batch 285/285  L_cap=2.9481  L_dis=0.0000  total=2.9481  avg=3.0416
+[train] Epoch 19 done  avg_loss=3.0416
+[val sample] A man in a blue shirt is walking on a sidewalk with a city .
+[val sample] A man in a red jacket is standing in front of a red car .
+[val sample] A boy wearing a red shirt is jumping into a pool .
+[val sample] A woman in a white dress is holding a cup in a handbag .
+[val sample] A group of people are standing around a dark skinned man in a blue shirt .
+[val sample] A man and a woman are sitting on a bench outside a building .
+[val sample] Two men in sunglasses are posing for a picture .
+[val sample] A woman in a white shirt and black sunglasses and a man in a suit in a white shirt in a black shirt with a brown shirt in her hands .
+[val sample] Two men are playing soccer on a beach .
+[val sample] A man and a woman are playing baseball .
+[val sample] Three girls are posing for a picture in front of a crowd .
+[val sample] A black dog is running through the grass .
+[val sample] Two women and a man are sitting in front of a large building .
+[val sample] A brown dog in a pink sweater runs through a field .
+[val sample] A young girl in a red shirt is jumping into a large kiddie pool .
+
+[train] Epoch 20/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.9157  L_dis=0.0000  total=2.9157  avg=2.9524
+[train] batch 100/285  L_cap=2.9801  L_dis=0.0000  total=2.9801  avg=2.9605
+[train] batch 150/285  L_cap=3.0091  L_dis=0.0000  total=3.0091  avg=2.9654
+[train] batch 200/285  L_cap=3.0360  L_dis=0.0000  total=3.0360  avg=2.9730
+[train] batch 250/285  L_cap=3.0952  L_dis=0.0000  total=3.0952  avg=2.9806
+[train] batch 285/285  L_cap=2.9926  L_dis=0.0000  total=2.9926  avg=2.9855
+[train] Epoch 20 done  avg_loss=2.9855
+[val sample] A group of people are standing on a sidewalk .
+[val sample] A man in a yellow shirt is holding a can of water while a man in a red and white shirt watches .
+[val sample] A boy wearing a red shirt is jumping over a red and blue pole .
+[val sample] A woman in a white dress is talking to a woman in a red dress .
+[val sample] Three people are standing outside a building with a large building in the background .
+[val sample] Two men and a woman are sitting on a bench .
+[val sample] Two men in a crowd are posing for a picture
+[val sample] A man and woman wearing black shirts and smile for the camera .
+[val sample] Two men are playing soccer on a beach .
+[val sample] A man in a baseball uniform is playing baseball .
+[val sample] Two girls in blue and black are jumping in a crowd .
+[val sample] A black dog is running on the grass .
+[val sample] Two women and a man are sitting on a bench with their heads .
+[val sample] A brown dog wearing a pink sweater and a pink jacket running .
+[val sample] A girl in a pink shirt is blowing bubbles .
+
+[train] Epoch 21/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.9434  L_dis=0.0000  total=2.9434  avg=2.8895
+[train] batch 100/285  L_cap=2.8946  L_dis=0.0000  total=2.8946  avg=2.9020
+[train] batch 150/285  L_cap=2.9513  L_dis=0.0000  total=2.9513  avg=2.9125
+[train] batch 200/285  L_cap=2.9896  L_dis=0.0000  total=2.9896  avg=2.9226
+[train] batch 250/285  L_cap=2.9594  L_dis=0.0000  total=2.9594  avg=2.9314
+[train] batch 285/285  L_cap=2.9333  L_dis=0.0000  total=2.9333  avg=2.9347
+[train] Epoch 21 done  avg_loss=2.9347
+[val sample] A group of people are standing on a sidewalk .
+[val sample] A man in a white shirt is playing tennis .
+[val sample] A man in a red shirt is sitting in a yellow raft .
+[val sample] A woman is holding a paper bag of a paper bag .
+[val sample] A group of people are standing outside of a building .
+[val sample] A man and a woman are sitting on a bench outside a building .
+[val sample] Two young girls wearing hats and caps are standing in the middle of a truck .
+[val sample] A woman in a white shirt and black hat is smiling .
+[val sample] Two men are playing soccer on a beach .
+[val sample] A man in a baseball uniform swings at a baseball bat .
+[val sample] A woman in a blue shirt is smiling while being held by a woman in a blue shirt .
+[val sample] A dog wearing a purple collar is running .
+[val sample] Two women and a man are sitting on a bench with a dog .
+[val sample] A dog in a pink sweater runs through a field .
+[val sample] A girl is wearing a pink shirt and holding a pink shirt .
+
+[train] Epoch 22/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.8914  L_dis=0.0000  total=2.8914  avg=2.8399
+[train] batch 100/285  L_cap=2.8567  L_dis=0.0000  total=2.8567  avg=2.8561
+[train] batch 150/285  L_cap=2.8563  L_dis=0.0000  total=2.8563  avg=2.8640
+[train] batch 200/285  L_cap=2.9434  L_dis=0.0000  total=2.9434  avg=2.8709
+[train] batch 250/285  L_cap=2.9226  L_dis=0.0000  total=2.9226  avg=2.8798
+[train] batch 285/285  L_cap=2.8985  L_dis=0.0000  total=2.8985  avg=2.8855
+[train] Epoch 22 done  avg_loss=2.8855
+[val sample] A group of people are standing on a street .
+[val sample] A man in a yellow shirt playing tennis .
+[val sample] A little boy in a red shirt is on a red and blue slide .
+[val sample] A woman holding a baby and looking at a book .
+[val sample] Two men are standing in a dark room with graffiti on their hands .
+[val sample] Two men are sitting on a bench with a bus and one of them is wearing a blue shirt and a black shirt .
+[val sample] Two girls in blue and red hats are posing for a picture in front of a crowd .
+[val sample] A woman in a white shirt and black leather jacket is looking at a sign .
+[val sample] Two young men are playing soccer on the beach .
+[val sample] A baseball player in a white uniform is jumping on the field .
+[val sample] Three boys in blue and white uniforms are playing in a pool .
+[val sample] A black dog is running through the grass .
+[val sample] Two women and a man are sitting on a park bench with their backs to the camera .
+[val sample] A dog wearing a pink sweater runs through a field .
+[val sample] A little girl in a pink shirt is playing with a red guitar .
+
+[train] Epoch 23/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.7725  L_dis=0.0000  total=2.7725  avg=2.7864
+[train] batch 100/285  L_cap=2.8657  L_dis=0.0000  total=2.8657  avg=2.8034
+[train] batch 150/285  L_cap=2.8976  L_dis=0.0000  total=2.8976  avg=2.8180
+[train] batch 200/285  L_cap=2.8891  L_dis=0.0000  total=2.8891  avg=2.8271
+[train] batch 250/285  L_cap=2.8587  L_dis=0.0000  total=2.8587  avg=2.8358
+[train] batch 285/285  L_cap=2.9254  L_dis=0.0000  total=2.9254  avg=2.8396
+[train] Epoch 23 done  avg_loss=2.8396
+[val sample] A group of people are standing together outside .
+[val sample] A man in a red shirt is holding a drink from a water bottle .
+[val sample] A boy is riding a red and yellow bike down a small metal slide .
+[val sample] A woman in a white dress is holding a cup in a paper bagpipes .
+[val sample] Two men are standing in front of a brick wall .
+[val sample] Two people sit at a table outside .
+[val sample] Two men in matching outfits pose for a picture .
+[val sample] A woman in a white shirt and black leather jacket is standing in a street .
+[val sample] Two men in red suits play soccer on the beach .
+[val sample] A baseball player in a red uniform is holding a bat while the catcher tries to catch him .
+[val sample] A young boy wearing a blue shirt is smiling in the camera .
+[val sample] A black dog is carrying a pink toy in its mouth .
+[val sample] Two women and a man are sitting on a bench with a cow .
+[val sample] A dog in a pink sweater runs in a field .
+[val sample] A girl in a pink shirt is sitting in the middle of the water .
+
+[train] Epoch 24/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.7627  L_dis=0.0000  total=2.7627  avg=2.7510
+[train] batch 100/285  L_cap=2.8576  L_dis=0.0000  total=2.8576  avg=2.7610
+[train] batch 150/285  L_cap=2.8188  L_dis=0.0000  total=2.8188  avg=2.7708
+[train] batch 200/285  L_cap=2.8565  L_dis=0.0000  total=2.8565  avg=2.7818
+[train] batch 250/285  L_cap=2.7788  L_dis=0.0000  total=2.7788  avg=2.7891
+[train] batch 285/285  L_cap=2.8855  L_dis=0.0000  total=2.8855  avg=2.7957
+[train] Epoch 24 done  avg_loss=2.7957
+[val sample] A group of people are standing on a street while one holds a purse .
+[val sample] A man in a white hardhat is standing in front of a crowd of people .
+[val sample] A man in a red shirt is rollerblading .
+[val sample] A woman in a white dress is holding a cup in a paper bagpipes .
+[val sample] Two men in black jackets standing in a dimly lit hallway .
+[val sample] Two people sit at a table outside a building .
+[val sample] Two men in red and blue costumes are posing for a picture in front of a crowd of people .
+[val sample] A woman in a white shirt and green glasses is standing in front of a brick wall .
+[val sample] Two men are playing soccer on the beach .
+[val sample] A baseball player in a black shirt is throwing the ball .
+[val sample] A group of young men in a blue and white suits are posing for a picture .
+[val sample] A black dog is playing with a purple toy .
+[val sample] Two women and a small child sit on a large tractor with their food .
+[val sample] A brown dog in a pink sweater running .
+[val sample] A young girl in a pink shirt is playing with a large red electric guitar .
+
+[train] Epoch 25/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.7237  L_dis=0.0000  total=2.7237  avg=2.7224
+[train] batch 100/285  L_cap=2.7342  L_dis=0.0000  total=2.7342  avg=2.7293
+[train] batch 150/285  L_cap=2.8231  L_dis=0.0000  total=2.8231  avg=2.7345
+[train] batch 200/285  L_cap=2.7961  L_dis=0.0000  total=2.7961  avg=2.7391
+[train] batch 250/285  L_cap=2.7824  L_dis=0.0000  total=2.7824  avg=2.7481
+[train] batch 285/285  L_cap=2.6746  L_dis=0.0000  total=2.6746  avg=2.7534
+[train] Epoch 25 done  avg_loss=2.7534
+[val sample] A group of people are standing on the street .
+[val sample] A man in a white hardhat is about to fall water .
+[val sample] A boy wearing a red shirt and blue shorts is jumping .
+[val sample] A woman in a white dress is holding a cup in a paper bag .
+[val sample] A group of people are standing outside of a building .
+[val sample] Two people sit on a bench and look at each other .
+[val sample] Two men in matching outfits pose for a picture .
+[val sample] A woman in a white shirt and black leather is standing in front of a brick wall .
+[val sample] Two men are playing soccer on the beach .
+[val sample] "Two baseball players in motion , a baseball uniform , to hit the ball ."
+[val sample] Two boys in blue and white uniforms are playing basketball .
+[val sample] A black dog with a purple collar is running .
+[val sample] Two women and a man are sitting on a park bench with a cow .
+[val sample] A dog in a pink sweater runs through a field .
+[val sample] A little girl is wearing a pink shirt .
+
+[train] Epoch 26/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.6587  L_dis=0.0000  total=2.6587  avg=2.6710
+[train] batch 100/285  L_cap=2.7019  L_dis=0.0000  total=2.7019  avg=2.6809
+[train] batch 150/285  L_cap=2.7572  L_dis=0.0000  total=2.7572  avg=2.6915
+[train] batch 200/285  L_cap=2.7718  L_dis=0.0000  total=2.7718  avg=2.7014
+[train] batch 250/285  L_cap=2.6852  L_dis=0.0000  total=2.6852  avg=2.7090
+[train] batch 285/285  L_cap=2.8626  L_dis=0.0000  total=2.8626  avg=2.7138
+[train] Epoch 26 done  avg_loss=2.7138
+[val sample] A group of people are standing outside a building .
+[val sample] A man in a white hardhat is about to hit a tennis ball with a man in a game .
+[val sample] A boy wearing a red shirt is riding a go cart down a slide .
+[val sample] A woman holding a newspaper is drinking from a cup .
+[val sample] Four men in a dimly lit hallway .
+[val sample] Two people sit on a bench and look at each other .
+[val sample] Three young men in costume are dancing .
+[val sample] A woman in a white shirt and black sunglasses in a street .
+[val sample] Two men are playing soccer on a beach .
+[val sample] "Two baseball players on a field , with a crowd behind them ."
+[val sample] Three boys in blue shirts are playing a game of a pool .
+[val sample] A black dog is carrying a purple toy .
+[val sample] Two women and a small child sit on a park .
+[val sample] A brown dog in a pink shirt is running through a field .
+[val sample] A young girl with red hair is in her hair yawning .
+
+[train] Epoch 27/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.6086  L_dis=0.0000  total=2.6086  avg=2.6360
+[train] batch 100/285  L_cap=2.6508  L_dis=0.0000  total=2.6508  avg=2.6434
+[train] batch 150/285  L_cap=2.5900  L_dis=0.0000  total=2.5900  avg=2.6538
+[train] batch 200/285  L_cap=2.7032  L_dis=0.0000  total=2.7032  avg=2.6629
+[train] batch 250/285  L_cap=2.7607  L_dis=0.0000  total=2.7607  avg=2.6716
+[train] batch 285/285  L_cap=2.7750  L_dis=0.0000  total=2.7750  avg=2.6769
+[train] Epoch 27 done  avg_loss=2.6769
+[val sample] A group of people are standing outside of a building .
+[val sample] A man in a white hardhat is playing tennis .
+[val sample] A young boy is excited about to go down a water slide .
+[val sample] A woman is drinking from a paper cup while drinking a drink from a paper cup .
+[val sample] Four people are standing outside of a building .
+[val sample] Two people sit on a bench and look at each other while sitting on a table .
+[val sample] A group of people are posing together .
+[val sample] A woman in a white shirt and black sunglasses in a crowd .
+[val sample] Two soccer players are running on the beach .
+[val sample] "Two baseball players , one in red , in white , and one in blue ."
+[val sample] A young boy wearing a blue shirt is playing baseball .
+[val sample] A dog with a pink sweater is running through the grass .
+[val sample] Two women and a man are sitting in a park with their bicycles in the background .
+[val sample] A brown dog wearing a pink shirt is running through the grass .
+[val sample] A young girl with red hair and green eyes is sitting at a table .
+
+[train] Epoch 28/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.5614  L_dis=0.0000  total=2.5614  avg=2.5963
+[train] batch 100/285  L_cap=2.6374  L_dis=0.0000  total=2.6374  avg=2.6077
+[train] batch 150/285  L_cap=2.6099  L_dis=0.0000  total=2.6099  avg=2.6209
+[train] batch 200/285  L_cap=2.7140  L_dis=0.0000  total=2.7140  avg=2.6279
+[train] batch 250/285  L_cap=2.6754  L_dis=0.0000  total=2.6754  avg=2.6363
+[train] batch 285/285  L_cap=2.7154  L_dis=0.0000  total=2.7154  avg=2.6409
+[train] Epoch 28 done  avg_loss=2.6409
+[val sample] A group of people are standing outside of a building .
+[val sample] A man in a white hardhat is playing a game of water .
+[val sample] A boy in a red shirt and a girl in a yellow shirt is riding a red plastic bag .
+[val sample] A woman is drinking from a drinking coffee cup while a man and woman is sitting next to a table full of soda .
+[val sample] Four people are standing outside of a building .
+[val sample] Two people sit at a table outside of a building .
+[val sample] Three people in costumes stand in front of a crowd .
+[val sample] A woman in a white shirt and green shirt is standing in front of a brick wall .
+[val sample] Two men are playing soccer on the beach .
+[val sample] A baseball player is being tackled by a player on a racetrack .
+[val sample] A young boy wearing a green shirt is jumping into a microphone .
+[val sample] A dog with a purple toy in its mouth .
+[val sample] Two women and a man are sitting in a park .
+[val sample] A dog in a pink sweater runs in a field .
+[val sample] A young girl in a pink dress is smiling .
+
+[train] Epoch 29/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.5711  L_dis=0.0000  total=2.5711  avg=2.5616
+[train] batch 100/285  L_cap=2.6370  L_dis=0.0000  total=2.6370  avg=2.5755
+[train] batch 150/285  L_cap=2.5775  L_dis=0.0000  total=2.5775  avg=2.5846
+[train] batch 200/285  L_cap=2.6406  L_dis=0.0000  total=2.6406  avg=2.5940
+[train] batch 250/285  L_cap=2.6468  L_dis=0.0000  total=2.6468  avg=2.6014
+[train] batch 285/285  L_cap=2.7161  L_dis=0.0000  total=2.7161  avg=2.6072
+[train] Epoch 29 done  avg_loss=2.6072
+[val sample] A group of people are standing on a street while one of them is pointing at something off .
+[val sample] A man in a white hardhat is standing in front of a large truck .
+[val sample] A boy in a red shirt is jumping over a yellow pole .
+[val sample] A woman is drinking from a coffee cup while a man sits behind him .
+[val sample] Four people are standing on a wooden porch .
+[val sample] Two people sit at a table outside and look on the ground .
+[val sample] Two young men are posing for a picture in front of a crowd .
+[val sample] A woman in a white shirt and black leather is standing in front of a brick wall .
+[val sample] A group of men play soccer on the beach .
+[val sample] Two baseball players in action .
+[val sample] Three boys in blue shirts are doing a back flip .
+[val sample] A black dog is chewing on a purple toy .
+[val sample] Two women and a man are sitting on a bench with their cow .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A young girl with red hair is in her hair yawning .
+
+[train] Epoch 30/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.5429  L_dis=0.0000  total=2.5429  avg=2.5245
+[train] batch 100/285  L_cap=2.6003  L_dis=0.0000  total=2.6003  avg=2.5362
+[train] batch 150/285  L_cap=2.5877  L_dis=0.0000  total=2.5877  avg=2.5500
+[train] batch 200/285  L_cap=2.5567  L_dis=0.0000  total=2.5567  avg=2.5583
+[train] batch 250/285  L_cap=2.6696  L_dis=0.0000  total=2.6696  avg=2.5685
+[train] batch 285/285  L_cap=2.6667  L_dis=0.0000  total=2.6667  avg=2.5741
+[train] Epoch 30 done  avg_loss=2.5741
+[val sample] A group of people are standing outside of a building .
+[val sample] A man in an orange vest hits a tennis ball with a racket .
+[val sample] A boy is riding a red and yellow car .
+[val sample] A woman drinking from a mug and reading a newspaper .
+[val sample] Four people are standing around a soundproof and one is standing on the other .
+[val sample] Two people sit at a table outside of a building .
+[val sample] Three men wearing hats are posing together .
+[val sample] A woman in a white shirt and black sunglasses in a hallway .
+[val sample] A group of people playing soccer on the beach .
+[val sample] Two men in camouflage pants and baseball uniform play baseball .
+[val sample] Two boys in blue and white uniforms play in a crowd .
+[val sample] A black dog is chewing on a purple toy .
+[val sample] Two women and a man are sitting on a bench with a dog .
+[val sample] A dog in a pink sweater runs through a field .
+[val sample] A little girl in a pink shirt is playing with red flowers .
+
+[train] Epoch 31/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.4843  L_dis=0.0000  total=2.4843  avg=2.4966
+[train] batch 100/285  L_cap=2.5137  L_dis=0.0000  total=2.5137  avg=2.5098
+[train] batch 150/285  L_cap=2.5101  L_dis=0.0000  total=2.5101  avg=2.5230
+[train] batch 200/285  L_cap=2.5536  L_dis=0.0000  total=2.5536  avg=2.5301
+[train] batch 250/285  L_cap=2.6322  L_dis=0.0000  total=2.6322  avg=2.5382
+[train] batch 285/285  L_cap=2.5274  L_dis=0.0000  total=2.5274  avg=2.5429
+[train] Epoch 31 done  avg_loss=2.5429
+[val sample] A group of people are standing on a sidewalk near a brick wall .
+[val sample] A man in an orange t-shirt is guarding a coffee shop .
+[val sample] A man in a yellow shirt and a small child with a red and yellow shirt on a red bench .
+[val sample] A woman drinking from a mug at a coffee shop .
+[val sample] Four people are standing in a dark room with lights on their faces .
+[val sample] Two people sit at a table outside and look at each other .
+[val sample] Three young men wearing hats and headscarfs with their fingers .
+[val sample] A woman in a white shirt is standing in front of a brick wall .
+[val sample] Two young men are playing soccer on a beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] Three young boys wearing hats and caps are playing football .
+[val sample] A black dog is carrying a pink toy .
+[val sample] Two women in a park .
+[val sample] A dog in a pink sweater runs in a field .
+[val sample] A little girl in a red shirt is sitting in a large inflatable tube .
+
+[train] Epoch 32/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.4411  L_dis=0.0000  total=2.4411  avg=2.4713
+[train] batch 100/285  L_cap=2.5317  L_dis=0.0000  total=2.5317  avg=2.4817
+[train] batch 150/285  L_cap=2.5292  L_dis=0.0000  total=2.5292  avg=2.4930
+[train] batch 200/285  L_cap=2.5185  L_dis=0.0000  total=2.5185  avg=2.5032
+[train] batch 250/285  L_cap=2.5891  L_dis=0.0000  total=2.5891  avg=2.5105
+[train] batch 285/285  L_cap=2.5530  L_dis=0.0000  total=2.5530  avg=2.5160
+[train] Epoch 32 done  avg_loss=2.5160
+[val sample] A group of people stand outside a building .
+[val sample] A man in a white hardhat is about to fall .
+[val sample] A boy is about to go down a railing of a go round toy .
+[val sample] A woman drinking from a paper cup and a paper cup is drinking from a cup .
+[val sample] Four people in dark clothes are in a dark room with a brick wall .
+[val sample] Two people sit at a table outside and the other is sitting on a bench .
+[val sample] Three people in costumes stand in front of a crowd .
+[val sample] A girl in a white shirt is standing in a glass of people .
+[val sample] A group of people playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators in background ."
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A black dog is chewing on a purple toy .
+[val sample] Two women and a child sit on a bench .
+[val sample] A brown dog in a pink shirt is running through a field .
+[val sample] A young girl is wearing a pink shirt .
+
+[train] Epoch 33/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.4221  L_dis=0.0000  total=2.4221  avg=2.4390
+[train] batch 100/285  L_cap=2.5263  L_dis=0.0000  total=2.5263  avg=2.4555
+[train] batch 150/285  L_cap=2.5067  L_dis=0.0000  total=2.5067  avg=2.4648
+[train] batch 200/285  L_cap=2.5009  L_dis=0.0000  total=2.5009  avg=2.4743
+[train] batch 250/285  L_cap=2.5208  L_dis=0.0000  total=2.5208  avg=2.4814
+[train] batch 285/285  L_cap=2.5206  L_dis=0.0000  total=2.5206  avg=2.4876
+[train] Epoch 33 done  avg_loss=2.4876
+[val sample] A group of people stand outside a building .
+[val sample] A man in an orange vest and a white t-shirts are watching .
+[val sample] A boy in a red shirt and a girl is wearing a blue shirt and a yellow shirt .
+[val sample] A woman in a white dress is drinking from a coffee cup .
+[val sample] Four people are standing outside of a building .
+[val sample] Two people sit on a bench and watch a small child are sitting at a table .
+[val sample] Three people are posing for a photograph in a crowded area .
+[val sample] A girl in a white shirt and gold shirt is standing in front of a door .
+[val sample] Four young men are playing soccer on a beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] Three boys in matching green and blue shirts are smiling and laughing .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a child sit on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl in a pink shirt is playing with her hair .
+
+[train] Epoch 34/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.4235  L_dis=0.0000  total=2.4235  avg=2.4217
+[train] batch 100/285  L_cap=2.4233  L_dis=0.0000  total=2.4233  avg=2.4294
+[train] batch 150/285  L_cap=2.4540  L_dis=0.0000  total=2.4540  avg=2.4381
+[train] batch 200/285  L_cap=2.4976  L_dis=0.0000  total=2.4976  avg=2.4477
+[train] batch 250/285  L_cap=2.5530  L_dis=0.0000  total=2.5530  avg=2.4556
+[train] batch 285/285  L_cap=2.4108  L_dis=0.0000  total=2.4108  avg=2.4617
+[train] Epoch 34 done  avg_loss=2.4617
+[val sample] A group of people are standing on a sidewalk outside .
+[val sample] A man in an orange uniform is spraying water while holding a white balloon .
+[val sample] A boy is excited about to go into a go cartwheeled cart .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four people are standing in a dark room with lights on the walls .
+[val sample] Two people sit at a table outside and look down at something .
+[val sample] Three people are posing for a photograph in a costume .
+[val sample] A woman in a white shirt and black sunglasses in a hallway .
+[val sample] Two young men are playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators in background ."
+[val sample] A group of boys watching a boy play basketball in a blue pool .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a child sit on a park bench .
+[val sample] A brown dog wearing a pink sweater runs through a field .
+[val sample] A young girl with curly hair is smiling and putting her mouth .
+
+[train] Epoch 35/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.4348  L_dis=0.0000  total=2.4348  avg=2.4020
+[train] batch 100/285  L_cap=2.4253  L_dis=0.0000  total=2.4253  avg=2.4071
+[train] batch 150/285  L_cap=2.4494  L_dis=0.0000  total=2.4494  avg=2.4165
+[train] batch 200/285  L_cap=2.4828  L_dis=0.0000  total=2.4828  avg=2.4233
+[train] batch 250/285  L_cap=2.4915  L_dis=0.0000  total=2.4915  avg=2.4306
+[train] batch 285/285  L_cap=2.4181  L_dis=0.0000  total=2.4181  avg=2.4361
+[train] Epoch 35 done  avg_loss=2.4361
+[val sample] A group of boys are standing on a ledge overlooking a building .
+[val sample] A man in a white hardhat is about to fall into the basket .
+[val sample] A young boy is excited about to go down a red slide .
+[val sample] A woman is drinking from a paper cup while drinking a coffee cup .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit on a bench and look at each other .
+[val sample] Three men are wearing black costumes and one is holding a drink in their hands .
+[val sample] A woman in a white shirt and a man in a white shirt in a hallway .
+[val sample] Two men are playing soccer on a beach .
+[val sample] Two men are playing baseball .
+[val sample] A young boy in a green striped shirt is getting ready to jump in a baseball game .
+[val sample] A dog is chewing on a purple toy .
+[val sample] Two women and a man are sitting on a park bench .
+[val sample] A brown dog in a pink shirt is running through a field .
+[val sample] A young girl with bows in her hair .
+
+[train] Epoch 36/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.3908  L_dis=0.0000  total=2.3908  avg=2.3721
+[train] batch 100/285  L_cap=2.4297  L_dis=0.0000  total=2.4297  avg=2.3805
+[train] batch 150/285  L_cap=2.4084  L_dis=0.0000  total=2.4084  avg=2.3922
+[train] batch 200/285  L_cap=2.4402  L_dis=0.0000  total=2.4402  avg=2.4001
+[train] batch 250/285  L_cap=2.4327  L_dis=0.0000  total=2.4327  avg=2.4079
+[train] batch 285/285  L_cap=2.4562  L_dis=0.0000  total=2.4562  avg=2.4119
+[train] Epoch 36 done  avg_loss=2.4119
+[val sample] A group of people stand outside of a building .
+[val sample] A man in an orange vest hits a tennis ball with a racket .
+[val sample] A little boy is excited about to go down a red slide .
+[val sample] A woman drinking from a cup in a paper cup is drinking from a cup reading from a book .
+[val sample] Four people are standing outside of a building .
+[val sample] Two people sit at a table outside of a building .
+[val sample] Three people are posing for a photograph in front of a group of people .
+[val sample] A woman in a white shirt is standing in front of a brick wall .
+[val sample] Two young men are playing soccer on the beach .
+[val sample] Two men are playing baseball .
+[val sample] A group of boys are playing football in a hotel pool .
+[val sample] A black dog is chewing on a purple toy .
+[val sample] Two women and a man are sitting on a bench outside a building .
+[val sample] A brown dog wearing a pink shirt runs through a field .
+[val sample] A little girl with colorful hair is wearing a pink tutu .
+
+[train] Epoch 37/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.3668  L_dis=0.0000  total=2.3668  avg=2.3476
+[train] batch 100/285  L_cap=2.3708  L_dis=0.0000  total=2.3708  avg=2.3553
+[train] batch 150/285  L_cap=2.3992  L_dis=0.0000  total=2.3992  avg=2.3652
+[train] batch 200/285  L_cap=2.4647  L_dis=0.0000  total=2.4647  avg=2.3747
+[train] batch 250/285  L_cap=2.4371  L_dis=0.0000  total=2.4371  avg=2.3840
+[train] batch 285/285  L_cap=2.4515  L_dis=0.0000  total=2.4515  avg=2.3887
+[train] Epoch 37 done  avg_loss=2.3887
+[val sample] A group of people are standing on a street corner near a building .
+[val sample] A man in an orange safety suit is water in a race .
+[val sample] A little boy in a red shirt and a man in a red shirt is riding a yellow go cart next to a go car .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four men are standing in a dimly lit hallway .
+[val sample] Two people sit at a table outside of a building .
+[val sample] Three people are posing together in front of a hot air .
+[val sample] A woman in a white shirt and dark hoodie is standing in a street .
+[val sample] Two men are playing soccer on a beach .
+[val sample] Two men in baseball uniforms and one is trying to catch a baseball while an opposing player in a baseball game watch .
+[val sample] A boy wearing a blue baseball uniform is holding a football in his hand .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man are sitting on a bench outside a building .
+[val sample] A brown dog wearing a pink shirt runs through a field .
+[val sample] A little girl is sitting in a tube surrounded by watermelons .
+
+[train] Epoch 38/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.3360  L_dis=0.0000  total=2.3360  avg=2.3306
+[train] batch 100/285  L_cap=2.3424  L_dis=0.0000  total=2.3424  avg=2.3373
+[train] batch 150/285  L_cap=2.3512  L_dis=0.0000  total=2.3512  avg=2.3461
+[train] batch 200/285  L_cap=2.4247  L_dis=0.0000  total=2.4247  avg=2.3537
+[train] batch 250/285  L_cap=2.4476  L_dis=0.0000  total=2.4476  avg=2.3622
+[train] batch 285/285  L_cap=2.3852  L_dis=0.0000  total=2.3852  avg=2.3673
+[train] Epoch 38 done  avg_loss=2.3673
+[val sample] A group of people stand together and smile .
+[val sample] A man in a white hardhat is standing in front of a large truck .
+[val sample] A young boy is excited about to go down a red slide .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four young men are standing in a hallway with a brick wall .
+[val sample] Two older men and a young man sitting on a bench .
+[val sample] Three young men wearing black hats and head scarves on their heads .
+[val sample] A woman in a white shirt and gold shirt is standing in front of a brick wall .
+[val sample] Two men are playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A black dog bites purple and purple fabric .
+[val sample] Two women sitting on a bench under a giant tree .
+[val sample] A brown dog in a pink shirt is running through a field .
+[val sample] A young girl with bows in her hair .
+
+[train] Epoch 39/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.3185  L_dis=0.0000  total=2.3185  avg=2.3044
+[train] batch 100/285  L_cap=2.3524  L_dis=0.0000  total=2.3524  avg=2.3137
+[train] batch 150/285  L_cap=2.3420  L_dis=0.0000  total=2.3420  avg=2.3227
+[train] batch 200/285  L_cap=2.4032  L_dis=0.0000  total=2.4032  avg=2.3328
+[train] batch 250/285  L_cap=2.3869  L_dis=0.0000  total=2.3869  avg=2.3402
+[train] batch 285/285  L_cap=2.4034  L_dis=0.0000  total=2.4034  avg=2.3451
+[train] Epoch 39 done  avg_loss=2.3451
+[val sample] A group of teenagers are standing on the sidewalk of a brick building .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A boy in a red shirt is sitting in a yellow race car .
+[val sample] A woman is drinking from a paper cup in front of a paper cup drinking from a cup of beer .
+[val sample] Four young men are standing in a room with a brick wall .
+[val sample] Two people sit at a table outside against a wall and make gestures .
+[val sample] Three people are posing in front of a red wall while another man stands behind him .
+[val sample] A woman in a white shirt and gold shirt is standing in front of a brick wall .
+[val sample] A group of men playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A boy with a blue shirt is wearing a black and white striped shirt .
+[val sample] A black dog has a purple toy in its mouth .
+[val sample] Two women and a child sit on a bench .
+[val sample] A brown dog wearing a pink shirt runs through a field .
+[val sample] A young girl with colorful clothes is smiling and sitting at a table with flowers in her mouth .
+
+[train] Epoch 40/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.3502  L_dis=0.0000  total=2.3502  avg=2.2817
+[train] batch 100/285  L_cap=2.2912  L_dis=0.0000  total=2.2912  avg=2.2948
+[train] batch 150/285  L_cap=2.3394  L_dis=0.0000  total=2.3394  avg=2.3038
+[train] batch 200/285  L_cap=2.3164  L_dis=0.0000  total=2.3164  avg=2.3115
+[train] batch 250/285  L_cap=2.3477  L_dis=0.0000  total=2.3477  avg=2.3195
+[train] batch 285/285  L_cap=2.3782  L_dis=0.0000  total=2.3782  avg=2.3245
+[train] Epoch 40 done  avg_loss=2.3245
+[val sample] A young boy is standing on a brick sidewalk near some steps .
+[val sample] A man in an orange uniform is working outside with a hose .
+[val sample] A little boy in a red shirt and a man in a yellow shirt are riding a red toy .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four people standing in the middle of a dimly lit night .
+[val sample] Two people sit at a table outside against a wall and their faces .
+[val sample] A group of people are posing together .
+[val sample] A woman in a dark shirt standing in front of a crowd of people .
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men in camouflage pants and a baseball uniform .
+[val sample] A boy with a crew cut and a blue shirt with a green ball .
+[val sample] A dog is running through the grass .
+[val sample] Two women and a man are sitting on a bench outside a wooded area .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A young girl with colorful hairclips in her hair yawns .
+
+[train] Epoch 41/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.2683  L_dis=0.0000  total=2.2683  avg=2.2683
+[train] batch 100/285  L_cap=2.2898  L_dis=0.0000  total=2.2898  avg=2.2787
+[train] batch 150/285  L_cap=2.3074  L_dis=0.0000  total=2.3074  avg=2.2847
+[train] batch 200/285  L_cap=2.3429  L_dis=0.0000  total=2.3429  avg=2.2932
+[train] batch 250/285  L_cap=2.3425  L_dis=0.0000  total=2.3425  avg=2.3010
+[train] batch 285/285  L_cap=2.3413  L_dis=0.0000  total=2.3413  avg=2.3057
+[train] Epoch 41 done  avg_loss=2.3057
+[val sample] A group of people stand on a sidewalk outside a building .
+[val sample] A man in an orange construction uniform is spraying water .
+[val sample] A little boy is making a face jump on a go-cart .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed up and each other in a crowded area .
+[val sample] A woman in a white shirt is standing in front of a brick wall .
+[val sample] Two men are playing soccer on the beach .
+[val sample] Two men in baseball uniforms and one is trying to catch a baseball .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a cow are sitting on a park .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A young girl with bows in her hair .
+
+[train] Epoch 42/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.2813  L_dis=0.0000  total=2.2813  avg=2.2501
+[train] batch 100/285  L_cap=2.3201  L_dis=0.0000  total=2.3201  avg=2.2573
+[train] batch 150/285  L_cap=2.3343  L_dis=0.0000  total=2.3343  avg=2.2657
+[train] batch 200/285  L_cap=2.3455  L_dis=0.0000  total=2.3455  avg=2.2741
+[train] batch 250/285  L_cap=2.3163  L_dis=0.0000  total=2.3163  avg=2.2831
+[train] batch 285/285  L_cap=2.3350  L_dis=0.0000  total=2.3350  avg=2.2876
+[train] Epoch 42 done  avg_loss=2.2876
+[val sample] A group of people stand and wait to cross the street .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A little boy is riding a go-cart and a little boy go down in the street .
+[val sample] An Indian woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in front of a brick wall with pictures on the other people in the background .
+[val sample] Two people sit on a bench and look at each other .
+[val sample] Three people are posing in front of a crowd .
+[val sample] A woman in a white shirt standing in front of a brick wall .
+[val sample] Four guys playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A group of boys in a green uniform are being held by a boy in blue clothing .
+[val sample] A black dog pulls on something .
+[val sample] Two women and a man are sitting outside under a large umbrella .
+[val sample] A brown dog in a pink shirt is running through a field .
+[val sample] A young girl with curly hairclips yawns .
+
+[train] Epoch 43/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.2545  L_dis=0.0000  total=2.2545  avg=2.2302
+[train] batch 100/285  L_cap=2.2598  L_dis=0.0000  total=2.2598  avg=2.2422
+[train] batch 150/285  L_cap=2.2728  L_dis=0.0000  total=2.2728  avg=2.2502
+[train] batch 200/285  L_cap=2.3084  L_dis=0.0000  total=2.3084  avg=2.2584
+[train] batch 250/285  L_cap=2.2899  L_dis=0.0000  total=2.2899  avg=2.2647
+[train] batch 285/285  L_cap=2.3273  L_dis=0.0000  total=2.3273  avg=2.2695
+[train] Epoch 43 done  avg_loss=2.2695
+[val sample] A group of people stand on a street near a brick wall .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A boy in a red shirt and a man in a yellow shirt are sitting at a picnic table .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four people are standing in the middle of a dimly lit night .
+[val sample] Two people sit on a bench and look at each other .
+[val sample] Three people are posing in front of a group of people .
+[val sample] A woman in a white shirt and black sunglasses in a hallway .
+[val sample] Two men are playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man are sitting on a park in front of a white and blue truck .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A young girl with watermelon and hair flying through the air .
+
+[train] Epoch 44/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.2043  L_dis=0.0000  total=2.2043  avg=2.2145
+[train] batch 100/285  L_cap=2.2386  L_dis=0.0000  total=2.2386  avg=2.2257
+[train] batch 150/285  L_cap=2.2718  L_dis=0.0000  total=2.2718  avg=2.2335
+[train] batch 200/285  L_cap=2.2563  L_dis=0.0000  total=2.2563  avg=2.2420
+[train] batch 250/285  L_cap=2.2929  L_dis=0.0000  total=2.2929  avg=2.2478
+[train] batch 285/285  L_cap=2.3015  L_dis=0.0000  total=2.3015  avg=2.2529
+[train] Epoch 44 done  avg_loss=2.2529
+[val sample] A group of people stand outside a building .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A boy wearing a red shirt is standing beside a girl with a yellow and a yellow shirt .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four people are standing in front of a brick wall with a one-shirt and one is standing in the other .
+[val sample] Two older people sit together on a table outside of a white building .
+[val sample] Three young men wearing hats and head scarves around their fingers .
+[val sample] A woman in a white shirt and gold bikini is standing in front of a brick wall .
+[val sample] Two men are playing soccer on a beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women on a walkway near a flower pot .
+[val sample] A brown dog in a pink sweater runs through a field .
+[val sample] A little girl with colorful hair is smiling and putting her mouth .
+
+[train] Epoch 45/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.1842  L_dis=0.0000  total=2.1842  avg=2.1993
+[train] batch 100/285  L_cap=2.2408  L_dis=0.0000  total=2.2408  avg=2.2112
+[train] batch 150/285  L_cap=2.2110  L_dis=0.0000  total=2.2110  avg=2.2194
+[train] batch 200/285  L_cap=2.2071  L_dis=0.0000  total=2.2071  avg=2.2267
+[train] batch 250/285  L_cap=2.2707  L_dis=0.0000  total=2.2707  avg=2.2330
+[train] batch 285/285  L_cap=2.2540  L_dis=0.0000  total=2.2540  avg=2.2372
+[train] Epoch 45 done  avg_loss=2.2372
+[val sample] A girl in a black coat is standing by a brick wall .
+[val sample] A man in an orange construction uniform is about to fall off the ground after going by an SUV .
+[val sample] A little boy is riding a red go-cart in the park .
+[val sample] An elderly woman is drinking tea and reading the newspaper .
+[val sample] Four people are standing in a dimly lit hallway .
+[val sample] Two older people sit at a table outside with their drinks .
+[val sample] Three people are dressed up as a roller coaster leaps into a parade .
+[val sample] A woman in a white shirt is wearing a black shirt that says ADHD .
+[val sample] Two young soccer teams playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A black dog bites a purple object .
+[val sample] Two women and a man are sitting on a park outside in a wooded area .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl in a red shirt is sitting in the kitchen counter .
+
+[train] Epoch 46/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.2217  L_dis=0.0000  total=2.2217  avg=2.1869
+[train] batch 100/285  L_cap=2.1929  L_dis=0.0000  total=2.1929  avg=2.1944
+[train] batch 150/285  L_cap=2.2612  L_dis=0.0000  total=2.2612  avg=2.2045
+[train] batch 200/285  L_cap=2.2274  L_dis=0.0000  total=2.2274  avg=2.2110
+[train] batch 250/285  L_cap=2.2405  L_dis=0.0000  total=2.2405  avg=2.2182
+[train] batch 285/285  L_cap=2.2344  L_dis=0.0000  total=2.2344  avg=2.2223
+[train] Epoch 46 done  avg_loss=2.2223
+[val sample] A group of people stand outside a building .
+[val sample] A man in an orange uniform is working outside with a hose .
+[val sample] A boy wearing a red shirt is standing beside a yellow car .
+[val sample] An Indian woman drinking tea and reading a newspaper .
+[val sample] Four people are standing in front of a building with colorful sunlight .
+[val sample] Two older people sit at a table outside against a giant metal bar .
+[val sample] Three young men wearing black costumes stand in a parade .
+[val sample] A woman in a white shirt and gold shirt is standing in front of a brick wall .
+[val sample] Two young men are playing soccer on the beach .
+[val sample] Two baseball players try to hit a ball on a baseball field .
+[val sample] A group of boys pose for a picture .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a cowgirl their baby .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 47/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.2008  L_dis=0.0000  total=2.2008  avg=2.1698
+[train] batch 100/285  L_cap=2.2096  L_dis=0.0000  total=2.2096  avg=2.1777
+[train] batch 150/285  L_cap=2.2273  L_dis=0.0000  total=2.2273  avg=2.1884
+[train] batch 200/285  L_cap=2.2233  L_dis=0.0000  total=2.2233  avg=2.1958
+[train] batch 250/285  L_cap=2.2230  L_dis=0.0000  total=2.2230  avg=2.2017
+[train] batch 285/285  L_cap=2.2656  L_dis=0.0000  total=2.2656  avg=2.2055
+[train] Epoch 47 done  avg_loss=2.2055
+[val sample] Four kids are posing for a picture at a street .
+[val sample] A man in an orange uniform is working outside with a hose .
+[val sample] A little boy is making a face jump on a playground .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in a dimly lit night scene .
+[val sample] Two people sit at a table outside against a wall .
+[val sample] Three people are posing for a photograph in a crowded area .
+[val sample] A woman in a white shirt is wearing a black shirt .
+[val sample] Two young men play soccer on the beach .
+[val sample] Two baseball players try to hit a ball on a field .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A black dog pulls on something .
+[val sample] Two women and a child sit on a bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 48/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.1902  L_dis=0.0000  total=2.1902  avg=2.1572
+[train] batch 100/285  L_cap=2.2066  L_dis=0.0000  total=2.2066  avg=2.1651
+[train] batch 150/285  L_cap=2.2012  L_dis=0.0000  total=2.2012  avg=2.1736
+[train] batch 200/285  L_cap=2.1774  L_dis=0.0000  total=2.1774  avg=2.1806
+[train] batch 250/285  L_cap=2.2436  L_dis=0.0000  total=2.2436  avg=2.1871
+[train] batch 285/285  L_cap=2.2270  L_dis=0.0000  total=2.2270  avg=2.1922
+[train] Epoch 48 done  avg_loss=2.1922
+[val sample] A group of kids stand on a brick sidewalk .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A little boy is making a jump off a go deck .
+[val sample] A woman read the paper and drinks from a paper cup of fabric .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed up as a pirate smiles and look at each other .
+[val sample] A girl in a white shirt is smiling and looking at the camera .
+[val sample] A group of young men playing soccer .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A boy with a crew cut and a blue shirt is surrounded by toys .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a child sit on a carnival .
+[val sample] A brown dog in a pink sweater runs with a brown dog .
+[val sample] A little girl with colorful hairclips yawns .
+
+[train] Epoch 49/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.1580  L_dis=0.0000  total=2.1580  avg=2.1483
+[train] batch 100/285  L_cap=2.1642  L_dis=0.0000  total=2.1642  avg=2.1546
+[train] batch 150/285  L_cap=2.1514  L_dis=0.0000  total=2.1514  avg=2.1618
+[train] batch 200/285  L_cap=2.2030  L_dis=0.0000  total=2.2030  avg=2.1690
+[train] batch 250/285  L_cap=2.1974  L_dis=0.0000  total=2.1974  avg=2.1742
+[train] batch 285/285  L_cap=2.2991  L_dis=0.0000  total=2.2991  avg=2.1781
+[train] Epoch 49 done  avg_loss=2.1781
+[val sample] Four kids are posing for a picture at an outdoor cafe .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A little boy grinning and a go cart in the background .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are posing for a photograph in a crowded area .
+[val sample] A girl in a white shirt is looking at the window .
+[val sample] Four people playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A young boy wearing a baseball uniform looks up .
+[val sample] A dog bites purple fabric .
+[val sample] Two women sitting on a wood floor next to a large cow .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 50/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0995  L_dis=0.0000  total=2.0995  avg=2.1303
+[train] batch 100/285  L_cap=2.1297  L_dis=0.0000  total=2.1297  avg=2.1407
+[train] batch 150/285  L_cap=2.1853  L_dis=0.0000  total=2.1853  avg=2.1499
+[train] batch 200/285  L_cap=2.1606  L_dis=0.0000  total=2.1606  avg=2.1554
+[train] batch 250/285  L_cap=2.2203  L_dis=0.0000  total=2.2203  avg=2.1614
+[train] batch 285/285  L_cap=2.2217  L_dis=0.0000  total=2.2217  avg=2.1655
+[train] Epoch 50 done  avg_loss=2.1655
+[val sample] A group of people stand and wait to cross the street .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A little boy is making a go cart go cart down the side of a slide .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit on a bench and look at each other while sitting on the ground .
+[val sample] Three people are dressed up as a concert and a white hat and a black-ropeer .
+[val sample] "A woman in a white shirt and a short , gold bikini and looking away ."
+[val sample] A group of young men playing soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball .
+[val sample] A group of boys with their arms folded .
+[val sample] A black dog pulls on something .
+[val sample] Two women and a small child sit on a park .
+[val sample] A brown dog in a pink sweater and a black dog running through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 51/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.1333  L_dis=0.0000  total=2.1333  avg=2.1156
+[train] batch 100/285  L_cap=2.1282  L_dis=0.0000  total=2.1282  avg=2.1259
+[train] batch 150/285  L_cap=2.1677  L_dis=0.0000  total=2.1677  avg=2.1342
+[train] batch 200/285  L_cap=2.1637  L_dis=0.0000  total=2.1637  avg=2.1414
+[train] batch 250/285  L_cap=2.2100  L_dis=0.0000  total=2.2100  avg=2.1473
+[train] batch 285/285  L_cap=2.1709  L_dis=0.0000  total=2.1709  avg=2.1516
+[train] Epoch 51 done  avg_loss=2.1516
+[val sample] A group of teenagers wait to cross the street .
+[val sample] A man in an orange construction uniform is being watched by an older man in a white outfit .
+[val sample] A boy in a red shirt is grinning and making a face in one hand and making a face in a blue car .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four men are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit on a bench and look down at each other .
+[val sample] Three people are dressed up as a pirate smiles and look at each other .
+[val sample] A woman in a white shirt standing in front of a brick wall .
+[val sample] Two men are playing soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man are sitting on a park .
+[val sample] A brown dog in a pink sweater runs with a brown dog in its mouth .
+[val sample] A young girl with colorful hairclips yawns .
+
+[train] Epoch 52/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.1341  L_dis=0.0000  total=2.1341  avg=2.1099
+[train] batch 100/285  L_cap=2.1398  L_dis=0.0000  total=2.1398  avg=2.1178
+[train] batch 150/285  L_cap=2.1417  L_dis=0.0000  total=2.1417  avg=2.1238
+[train] batch 200/285  L_cap=2.1403  L_dis=0.0000  total=2.1403  avg=2.1296
+[train] batch 250/285  L_cap=2.1429  L_dis=0.0000  total=2.1429  avg=2.1357
+[train] batch 285/285  L_cap=2.2265  L_dis=0.0000  total=2.2265  avg=2.1389
+[train] Epoch 52 done  avg_loss=2.1389
+[val sample] A girl in a black coat pushes a boy on a busy street .
+[val sample] A man in an orange uniform is working outside with a hose .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two older people sit at a table outside a large older man .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , wearing a bikini , and a bikini , looks out ."
+[val sample] Two guys are playing soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A group of boys in a baseball uniform with a boy in the background .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 53/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0764  L_dis=0.0000  total=2.0764  avg=2.0979
+[train] batch 100/285  L_cap=2.1430  L_dis=0.0000  total=2.1430  avg=2.1076
+[train] batch 150/285  L_cap=2.1540  L_dis=0.0000  total=2.1540  avg=2.1132
+[train] batch 200/285  L_cap=2.1387  L_dis=0.0000  total=2.1387  avg=2.1189
+[train] batch 250/285  L_cap=2.1308  L_dis=0.0000  total=2.1308  avg=2.1254
+[train] batch 285/285  L_cap=2.1720  L_dis=0.0000  total=2.1720  avg=2.1290
+[train] Epoch 53 done  avg_loss=2.1290
+[val sample] A girl in a black coat is standing next to a boy who is wearing blue jeans .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A boy is riding a go cart whilst other boys ride behind a go cart .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit on a bench and look at each other while sitting on the ground .
+[val sample] Three people are dressed up as a peace sign in a costume .
+[val sample] "A woman in a hooded shirt , white skirt and gray sweater ."
+[val sample] Two men playing ball on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A young boy wearing a green shirt is holding a large baseball .
+[val sample] A black dog bites purple nose
+[val sample] Two women and a small child sit on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl with colorful barettes in her hair yawns .
+
+[train] Epoch 54/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0979  L_dis=0.0000  total=2.0979  avg=2.0921
+[train] batch 100/285  L_cap=2.0863  L_dis=0.0000  total=2.0863  avg=2.0980
+[train] batch 150/285  L_cap=2.1291  L_dis=0.0000  total=2.1291  avg=2.1039
+[train] batch 200/285  L_cap=2.1907  L_dis=0.0000  total=2.1907  avg=2.1097
+[train] batch 250/285  L_cap=2.1770  L_dis=0.0000  total=2.1770  avg=2.1145
+[train] batch 285/285  L_cap=2.1686  L_dis=0.0000  total=2.1686  avg=2.1180
+[train] Epoch 54 done  avg_loss=2.1180
+[val sample] A boy in a black shirt and jeans is standing on a brick street while others walk by .
+[val sample] A man in an orange construction uniform is spraying water .
+[val sample] A boy is excited about to go into a go cartwheeled cart .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four men are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed up as a concert and a white soccer ball .
+[val sample] "A woman in a white shirt and a short , gold bikini and has a black shirt ."
+[val sample] Two men are playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a child sit on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 55/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0857  L_dis=0.0000  total=2.0857  avg=2.0810
+[train] batch 100/285  L_cap=2.1133  L_dis=0.0000  total=2.1133  avg=2.0882
+[train] batch 150/285  L_cap=2.0794  L_dis=0.0000  total=2.0794  avg=2.0934
+[train] batch 200/285  L_cap=2.1286  L_dis=0.0000  total=2.1286  avg=2.0995
+[train] batch 250/285  L_cap=2.1110  L_dis=0.0000  total=2.1110  avg=2.1049
+[train] batch 285/285  L_cap=2.1883  L_dis=0.0000  total=2.1883  avg=2.1088
+[train] Epoch 55 done  avg_loss=2.1088
+[val sample] A boy in a black shirt is standing next to some steps .
+[val sample] A man in an orange construction uniform is being watched by a fire .
+[val sample] A little boy is making a go cart go go kart .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a room with other players .
+[val sample] Two older people sit at a table outside against a giant metal bar .
+[val sample] Three people are dressed up as a concert and one is dressed in a costume and is dressed in a blue roller coaster .
+[val sample] A woman in a white shirt standing in front of a brick wall .
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A boy wearing a blue hat and shirt has a ball in his hand .
+[val sample] A dog bites purple fabric .
+[val sample] Two women on a park ride .
+[val sample] A brown dog in a pink sweater runs on a field .
+[val sample] A little girl in pink is putting from her hair .
+
+[train] Epoch 56/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0873  L_dis=0.0000  total=2.0873  avg=2.0691
+[train] batch 100/285  L_cap=2.0782  L_dis=0.0000  total=2.0782  avg=2.0725
+[train] batch 150/285  L_cap=2.1273  L_dis=0.0000  total=2.1273  avg=2.0795
+[train] batch 200/285  L_cap=2.1043  L_dis=0.0000  total=2.1043  avg=2.0863
+[train] batch 250/285  L_cap=2.1121  L_dis=0.0000  total=2.1121  avg=2.0931
+[train] batch 285/285  L_cap=2.1404  L_dis=0.0000  total=2.1404  avg=2.0968
+[train] Epoch 56 done  avg_loss=2.0968
+[val sample] A group of people stand outside a building while one looks at the other .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A little boy is excited a go cart smiling at the camera .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in the street posing for a picture
+[val sample] Two older people sit at a table outside against a giant robot .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt , looks to a left ."
+[val sample] Two men are playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A group of boys pose for a picture in a sporting event .
+[val sample] A dog bites purple fabric .
+[val sample] Two women sitting on a wood floor next to a large group of people .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl is wearing red is using a water hose and bar .
+
+[train] Epoch 57/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0683  L_dis=0.0000  total=2.0683  avg=2.0616
+[train] batch 100/285  L_cap=2.0976  L_dis=0.0000  total=2.0976  avg=2.0672
+[train] batch 150/285  L_cap=2.0815  L_dis=0.0000  total=2.0815  avg=2.0746
+[train] batch 200/285  L_cap=2.1153  L_dis=0.0000  total=2.1153  avg=2.0795
+[train] batch 250/285  L_cap=2.0752  L_dis=0.0000  total=2.0752  avg=2.0842
+[train] batch 285/285  L_cap=2.0670  L_dis=0.0000  total=2.0670  avg=2.0877
+[train] Epoch 57 done  avg_loss=2.0877
+[val sample] A group of people stand on a brick sidewalk .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A young boy in a red shirt and a man in a yellow shirt are riding a red toy .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , wearing a bikini , and a bikini , standing in front of a brick building ."
+[val sample] Two young men play soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A group of boys pose for a picture .
+[val sample] A dog bites purple fabric .
+[val sample] "Two women in India , sitting near an ox ."
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 58/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0517  L_dis=0.0000  total=2.0517  avg=2.0564
+[train] batch 100/285  L_cap=2.0882  L_dis=0.0000  total=2.0882  avg=2.0601
+[train] batch 150/285  L_cap=2.0834  L_dis=0.0000  total=2.0834  avg=2.0648
+[train] batch 200/285  L_cap=2.0872  L_dis=0.0000  total=2.0872  avg=2.0695
+[train] batch 250/285  L_cap=2.0784  L_dis=0.0000  total=2.0784  avg=2.0745
+[train] batch 285/285  L_cap=2.0772  L_dis=0.0000  total=2.0772  avg=2.0777
+[train] Epoch 58 done  avg_loss=2.0777
+[val sample] A group of people stand on a brick street near some street .
+[val sample] A man in an orange construction uniform is being watched by a white motorcycle .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit on a bench and look at each other while sitting on the ground .
+[val sample] Three people are dressed for a costume party .
+[val sample] A woman in a white shirt standing in front of a brick wall .
+[val sample] Two men are playing soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A group of boys pose for a picture .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a small child sit on a large cow .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 59/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0637  L_dis=0.0000  total=2.0637  avg=2.0472
+[train] batch 100/285  L_cap=2.0331  L_dis=0.0000  total=2.0331  avg=2.0503
+[train] batch 150/285  L_cap=2.0757  L_dis=0.0000  total=2.0757  avg=2.0546
+[train] batch 200/285  L_cap=2.0939  L_dis=0.0000  total=2.0939  avg=2.0606
+[train] batch 250/285  L_cap=2.1001  L_dis=0.0000  total=2.1001  avg=2.0661
+[train] batch 285/285  L_cap=2.0832  L_dis=0.0000  total=2.0832  avg=2.0694
+[train] Epoch 59 done  avg_loss=2.0694
+[val sample] A group of people stand on a brick sidewalk .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four young men in tuxedos are standing in front of a brick wall with other people in the background .
+[val sample] Two older people sit at a table outside against a brick wall .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a dark shirt , gold bikini standing in front of a brick wall ."
+[val sample] Two men are playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A young boy dives into a hotel pool .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a cow are sitting outside a cafe outdoors .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A young girl with colorful barettes in her hair yawns .
+
+[train] Epoch 60/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0227  L_dis=0.0000  total=2.0227  avg=2.0345
+[train] batch 100/285  L_cap=2.0512  L_dis=0.0000  total=2.0512  avg=2.0385
+[train] batch 150/285  L_cap=2.0808  L_dis=0.0000  total=2.0808  avg=2.0461
+[train] batch 200/285  L_cap=2.0781  L_dis=0.0000  total=2.0781  avg=2.0519
+[train] batch 250/285  L_cap=2.1006  L_dis=0.0000  total=2.1006  avg=2.0562
+[train] batch 285/285  L_cap=2.0895  L_dis=0.0000  total=2.0895  avg=2.0592
+[train] Epoch 60 done  avg_loss=2.0592
+[val sample] A group of people stand on a brick sidewalk .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A little boy is excited at a go-cart .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed in costume and pose for a picture .
+[val sample] "A woman in a white shirt , wearing a bikini , and a bikini , standing in front of a brick background ."
+[val sample] A group of men playing soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man are sitting on a park or lawn .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 61/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0165  L_dis=0.0000  total=2.0165  avg=2.0279
+[train] batch 100/285  L_cap=2.0519  L_dis=0.0000  total=2.0519  avg=2.0356
+[train] batch 150/285  L_cap=2.0438  L_dis=0.0000  total=2.0438  avg=2.0406
+[train] batch 200/285  L_cap=2.0372  L_dis=0.0000  total=2.0372  avg=2.0442
+[train] batch 250/285  L_cap=2.0624  L_dis=0.0000  total=2.0624  avg=2.0493
+[train] batch 285/285  L_cap=2.1017  L_dis=0.0000  total=2.1017  avg=2.0522
+[train] Epoch 61 done  avg_loss=2.0522
+[val sample] A group of people stand on a brick sidewalk .
+[val sample] A man in an orange construction uniform is spraying water .
+[val sample] A little boy is excited at a go cart go go-cart .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four men are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] A woman in a white shirt and gray print shirt is standing in a hallway with a brick other people behind them .
+[val sample] Two guys are playing soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A black dog pulls on something .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 62/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0417  L_dis=0.0000  total=2.0417  avg=2.0222
+[train] batch 100/285  L_cap=2.0281  L_dis=0.0000  total=2.0281  avg=2.0275
+[train] batch 150/285  L_cap=2.0526  L_dis=0.0000  total=2.0526  avg=2.0334
+[train] batch 200/285  L_cap=2.0558  L_dis=0.0000  total=2.0558  avg=2.0379
+[train] batch 250/285  L_cap=2.0643  L_dis=0.0000  total=2.0643  avg=2.0414
+[train] batch 285/285  L_cap=2.0727  L_dis=0.0000  total=2.0727  avg=2.0438
+[train] Epoch 62 done  avg_loss=2.0438
+[val sample] A group of people stand on a brick sidewalk .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A boy is making a wide go cart with his eyes as he makes a jump on a go deck .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] A group of people in dark clothing stand in a dimly lit warehouse .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , covered in brick background ."
+[val sample] Two men are playing soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man are sitting on a park bench with their stuffed animal
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 63/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0102  L_dis=0.0000  total=2.0102  avg=2.0131
+[train] batch 100/285  L_cap=2.0880  L_dis=0.0000  total=2.0880  avg=2.0208
+[train] batch 150/285  L_cap=2.0291  L_dis=0.0000  total=2.0291  avg=2.0255
+[train] batch 200/285  L_cap=2.0279  L_dis=0.0000  total=2.0279  avg=2.0293
+[train] batch 250/285  L_cap=2.0669  L_dis=0.0000  total=2.0669  avg=2.0338
+[train] batch 285/285  L_cap=2.0538  L_dis=0.0000  total=2.0538  avg=2.0366
+[train] Epoch 63 done  avg_loss=2.0366
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] A woman in a white shirt standing in front of a brick wall .
+[val sample] A group of men playing soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog pulls at the camera .
+[val sample] Two women sitting on a wood floor near a decorated cow .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A young girl with colorful barettes in her hair yawns .
+
+[train] Epoch 64/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0180  L_dis=0.0000  total=2.0180  avg=2.0133
+[train] batch 100/285  L_cap=2.0298  L_dis=0.0000  total=2.0298  avg=2.0134
+[train] batch 150/285  L_cap=2.0455  L_dis=0.0000  total=2.0455  avg=2.0184
+[train] batch 200/285  L_cap=2.0565  L_dis=0.0000  total=2.0565  avg=2.0224
+[train] batch 250/285  L_cap=2.0597  L_dis=0.0000  total=2.0597  avg=2.0262
+[train] batch 285/285  L_cap=2.0311  L_dis=0.0000  total=2.0311  avg=2.0286
+[train] Epoch 64 done  avg_loss=2.0286
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four people are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt and a short , gold bikini is smiling ."
+[val sample] Two young men play soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A boy wearing a green numbered shirt is holding a smaller boy in a blue shirt with a green glasses .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 65/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9949  L_dis=0.0000  total=1.9949  avg=2.0035
+[train] batch 100/285  L_cap=2.0181  L_dis=0.0000  total=2.0181  avg=2.0073
+[train] batch 150/285  L_cap=1.9884  L_dis=0.0000  total=1.9884  avg=2.0112
+[train] batch 200/285  L_cap=2.0451  L_dis=0.0000  total=2.0451  avg=2.0155
+[train] batch 250/285  L_cap=2.0573  L_dis=0.0000  total=2.0573  avg=2.0187
+[train] batch 285/285  L_cap=2.0094  L_dis=0.0000  total=2.0094  avg=2.0214
+[train] Epoch 65 done  avg_loss=2.0214
+[val sample] A girl in a black coat next to a boy who is walking .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a graffiti-in area .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed up as a concert and a black and a white scarf around each other .
+[val sample] A woman in a white shirt standing in front of a brick wall .
+[val sample] A group of men play soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A group of boys are playing with a small boy .
+[val sample] A dog pulls at the camera .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A young girl with colorful barettes in her hair yawns .
+
+[train] Epoch 66/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0036  L_dis=0.0000  total=2.0036  avg=1.9934
+[train] batch 100/285  L_cap=1.9787  L_dis=0.0000  total=1.9787  avg=1.9984
+[train] batch 150/285  L_cap=2.0019  L_dis=0.0000  total=2.0019  avg=2.0037
+[train] batch 200/285  L_cap=2.0221  L_dis=0.0000  total=2.0221  avg=2.0086
+[train] batch 250/285  L_cap=2.0338  L_dis=0.0000  total=2.0338  avg=2.0123
+[train] batch 285/285  L_cap=2.0211  L_dis=0.0000  total=2.0211  avg=2.0146
+[train] Epoch 66 done  avg_loss=2.0146
+[val sample] A group of people stand on a brick sidewalk .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a room with other players .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , wearing a shirt and a gray shirt appears to be to be in a crowd ."
+[val sample] Two men are playing soccer on the beach .
+[val sample] Two men in baseball uniforms and one is trying to catch a baseball while an opposing team member in a baseball game crouched stadium .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 67/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0263  L_dis=0.0000  total=2.0263  avg=1.9880
+[train] batch 100/285  L_cap=2.0254  L_dis=0.0000  total=2.0254  avg=1.9938
+[train] batch 150/285  L_cap=2.0374  L_dis=0.0000  total=2.0374  avg=1.9989
+[train] batch 200/285  L_cap=2.0087  L_dis=0.0000  total=2.0087  avg=2.0017
+[train] batch 250/285  L_cap=2.0484  L_dis=0.0000  total=2.0484  avg=2.0047
+[train] batch 285/285  L_cap=2.0668  L_dis=0.0000  total=2.0668  avg=2.0070
+[train] Epoch 67 done  avg_loss=2.0070
+[val sample] A group of people stand on a brick sidewalk .
+[val sample] A man in an orange construction uniform is being watched by a man .
+[val sample] A boy is making a funny face whilst making a face into a go kart .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four men are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt and gold trim , red cap is picking up her nose to be in a crowd ."
+[val sample] Two men are playing soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A boy wearing a green uniform is jumping off a tee .
+[val sample] A dog bites purple fabric .
+[val sample] Two people and a small girl sit on a park .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 68/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0002  L_dis=0.0000  total=2.0002  avg=1.9876
+[train] batch 100/285  L_cap=2.0209  L_dis=0.0000  total=2.0209  avg=1.9908
+[train] batch 150/285  L_cap=2.0153  L_dis=0.0000  total=2.0153  avg=1.9944
+[train] batch 200/285  L_cap=2.0015  L_dis=0.0000  total=2.0015  avg=1.9975
+[train] batch 250/285  L_cap=2.0345  L_dis=0.0000  total=2.0345  avg=2.0008
+[train] batch 285/285  L_cap=1.9918  L_dis=0.0000  total=1.9918  avg=2.0023
+[train] Epoch 68 done  avg_loss=2.0023
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange uniform is working outside with a hose .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a room with other players .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three young people are dressed as clowns in the dark .
+[val sample] "A woman in a white shirt , covered in brick wall ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A boy wearing a green numbered shirt is holding a smaller boy in a blue hat .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man are sitting on a park or carnival .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 69/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=2.0059  L_dis=0.0000  total=2.0059  avg=1.9744
+[train] batch 100/285  L_cap=1.9885  L_dis=0.0000  total=1.9885  avg=1.9810
+[train] batch 150/285  L_cap=2.0143  L_dis=0.0000  total=2.0143  avg=1.9861
+[train] batch 200/285  L_cap=1.9963  L_dis=0.0000  total=1.9963  avg=1.9904
+[train] batch 250/285  L_cap=2.0532  L_dis=0.0000  total=2.0532  avg=1.9929
+[train] batch 285/285  L_cap=2.0069  L_dis=0.0000  total=2.0069  avg=1.9956
+[train] Epoch 69 done  avg_loss=1.9956
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four men are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , wearing a bikini , and a bikini , standing in front of a brick background ."
+[val sample] Two men playing ball on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A group of boys pose for a picture .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 70/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9596  L_dis=0.0000  total=1.9596  avg=1.9750
+[train] batch 100/285  L_cap=1.9677  L_dis=0.0000  total=1.9677  avg=1.9798
+[train] batch 150/285  L_cap=1.9916  L_dis=0.0000  total=1.9916  avg=1.9832
+[train] batch 200/285  L_cap=2.0208  L_dis=0.0000  total=2.0208  avg=1.9863
+[train] batch 250/285  L_cap=2.0243  L_dis=0.0000  total=2.0243  avg=1.9892
+[train] batch 285/285  L_cap=1.9956  L_dis=0.0000  total=1.9956  avg=1.9907
+[train] Epoch 70 done  avg_loss=1.9907
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A boy is making a funny face whilst making a face into a go kart track .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway with other players .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a short , brick background ."
+[val sample] Two young men play soccer on the beach .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] A group of boys pose for a picture .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a small child sit on a large cow .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 71/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9591  L_dis=0.0000  total=1.9591  avg=1.9708
+[train] batch 100/285  L_cap=1.9834  L_dis=0.0000  total=1.9834  avg=1.9734
+[train] batch 150/285  L_cap=1.9764  L_dis=0.0000  total=1.9764  avg=1.9758
+[train] batch 200/285  L_cap=2.0087  L_dis=0.0000  total=2.0087  avg=1.9794
+[train] batch 250/285  L_cap=2.0117  L_dis=0.0000  total=2.0117  avg=1.9833
+[train] batch 285/285  L_cap=2.0154  L_dis=0.0000  total=2.0154  avg=1.9851
+[train] Epoch 71 done  avg_loss=1.9851
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four men are standing in a dark room with graffiti on the walls .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , wearing a bikini , and a bikini , looking out ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A group of boys pose for a picture .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 72/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9833  L_dis=0.0000  total=1.9833  avg=1.9694
+[train] batch 100/285  L_cap=1.9856  L_dis=0.0000  total=1.9856  avg=1.9711
+[train] batch 150/285  L_cap=1.9603  L_dis=0.0000  total=1.9603  avg=1.9729
+[train] batch 200/285  L_cap=1.9985  L_dis=0.0000  total=1.9985  avg=1.9761
+[train] batch 250/285  L_cap=1.9669  L_dis=0.0000  total=1.9669  avg=1.9785
+[train] batch 285/285  L_cap=2.0048  L_dis=0.0000  total=2.0048  avg=1.9801
+[train] Epoch 72 done  avg_loss=1.9801
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three smiling people in various costumes .
+[val sample] "A woman in a white shirt wearing a black shirt , a brick wall , behind her ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A group of boys pose for a picture .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 73/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9797  L_dis=0.0000  total=1.9797  avg=1.9627
+[train] batch 100/285  L_cap=1.9553  L_dis=0.0000  total=1.9553  avg=1.9644
+[train] batch 150/285  L_cap=1.9612  L_dis=0.0000  total=1.9612  avg=1.9672
+[train] batch 200/285  L_cap=1.9669  L_dis=0.0000  total=1.9669  avg=1.9710
+[train] batch 250/285  L_cap=1.9711  L_dis=0.0000  total=1.9711  avg=1.9731
+[train] batch 285/285  L_cap=1.9901  L_dis=0.0000  total=1.9901  avg=1.9748
+[train] Epoch 73 done  avg_loss=1.9748
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four men are standing in a dark room with graffiti on the walls .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three young people are dressed as costumes watch .
+[val sample] "A woman in a white shirt , wearing a bikini , has a brick background ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A young boy smiles as he stands with others wearing the same black hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man are sitting on a park or lawn .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 74/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9638  L_dis=0.0000  total=1.9638  avg=1.9538
+[train] batch 100/285  L_cap=1.9794  L_dis=0.0000  total=1.9794  avg=1.9575
+[train] batch 150/285  L_cap=1.9888  L_dis=0.0000  total=1.9888  avg=1.9623
+[train] batch 200/285  L_cap=1.9632  L_dis=0.0000  total=1.9632  avg=1.9650
+[train] batch 250/285  L_cap=1.9671  L_dis=0.0000  total=1.9671  avg=1.9673
+[train] batch 285/285  L_cap=1.9886  L_dis=0.0000  total=1.9886  avg=1.9697
+[train] Epoch 74 done  avg_loss=1.9697
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is about to fall off the ground to take a photo .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four young men are standing in a room with other players .
+[val sample] Two older people sit at a table outside against a brick wall .
+[val sample] Three people are dressed for a costume party .
+[val sample] A girl in a white shirt is wearing a black shirt .
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A group of boys pose for a picture .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man are sitting on a park .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 75/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9506  L_dis=0.0000  total=1.9506  avg=1.9548
+[train] batch 100/285  L_cap=1.9502  L_dis=0.0000  total=1.9502  avg=1.9564
+[train] batch 150/285  L_cap=1.9552  L_dis=0.0000  total=1.9552  avg=1.9594
+[train] batch 200/285  L_cap=1.9690  L_dis=0.0000  total=1.9690  avg=1.9617
+[train] batch 250/285  L_cap=1.9883  L_dis=0.0000  total=1.9883  avg=1.9635
+[train] batch 285/285  L_cap=1.9352  L_dis=0.0000  total=1.9352  avg=1.9651
+[train] Epoch 75 done  avg_loss=1.9651
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four men are standing in a dark room with graffiti on the walls .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a long , brick background ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A boy smiles at the camera .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 76/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9230  L_dis=0.0000  total=1.9230  avg=1.9486
+[train] batch 100/285  L_cap=1.9572  L_dis=0.0000  total=1.9572  avg=1.9509
+[train] batch 150/285  L_cap=1.9802  L_dis=0.0000  total=1.9802  avg=1.9534
+[train] batch 200/285  L_cap=1.9819  L_dis=0.0000  total=1.9819  avg=1.9575
+[train] batch 250/285  L_cap=1.9537  L_dis=0.0000  total=1.9537  avg=1.9603
+[train] batch 285/285  L_cap=1.9588  L_dis=0.0000  total=1.9588  avg=1.9618
+[train] Epoch 76 done  avg_loss=1.9618
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is about to fall off the ground to eat .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four men are standing in a dark room with graffiti on the walls .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A small boy wearing a green striped shirt is ready to jump into a pool .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man are sitting on a park bench with their cow .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 77/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9397  L_dis=0.0000  total=1.9397  avg=1.9477
+[train] batch 100/285  L_cap=1.9404  L_dis=0.0000  total=1.9404  avg=1.9495
+[train] batch 150/285  L_cap=1.9511  L_dis=0.0000  total=1.9511  avg=1.9512
+[train] batch 200/285  L_cap=1.9598  L_dis=0.0000  total=1.9598  avg=1.9535
+[train] batch 250/285  L_cap=1.9847  L_dis=0.0000  total=1.9847  avg=1.9555
+[train] batch 285/285  L_cap=1.9865  L_dis=0.0000  total=1.9865  avg=1.9574
+[train] Epoch 77 done  avg_loss=1.9574
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is about to fall .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a dark green shirt , white , and gold bikini in front of a brick wall ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A group of boys are playing with a small boy .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women sitting on a wood floor near a decorated cow .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 78/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9491  L_dis=0.0000  total=1.9491  avg=1.9444
+[train] batch 100/285  L_cap=1.9311  L_dis=0.0000  total=1.9311  avg=1.9447
+[train] batch 150/285  L_cap=1.9787  L_dis=0.0000  total=1.9787  avg=1.9478
+[train] batch 200/285  L_cap=1.9196  L_dis=0.0000  total=1.9196  avg=1.9496
+[train] batch 250/285  L_cap=1.9633  L_dis=0.0000  total=1.9633  avg=1.9521
+[train] batch 285/285  L_cap=1.9412  L_dis=0.0000  total=1.9412  avg=1.9530
+[train] Epoch 78 done  avg_loss=1.9530
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a room with other players .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A group of boys are playing football in a sporting .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 79/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9203  L_dis=0.0000  total=1.9203  avg=1.9402
+[train] batch 100/285  L_cap=1.9522  L_dis=0.0000  total=1.9522  avg=1.9426
+[train] batch 150/285  L_cap=1.9881  L_dis=0.0000  total=1.9881  avg=1.9452
+[train] batch 200/285  L_cap=1.9821  L_dis=0.0000  total=1.9821  avg=1.9464
+[train] batch 250/285  L_cap=1.9537  L_dis=0.0000  total=1.9537  avg=1.9480
+[train] batch 285/285  L_cap=1.9273  L_dis=0.0000  total=1.9273  avg=1.9490
+[train] Epoch 79 done  avg_loss=1.9490
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is about to fall .
+[val sample] A boy is making a funny face whilst making a face into a go cart .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a room with other players .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a short , brick background ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] A group of boys are playing with a small boy .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 80/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9510  L_dis=0.0000  total=1.9510  avg=1.9354
+[train] batch 100/285  L_cap=1.9395  L_dis=0.0000  total=1.9395  avg=1.9400
+[train] batch 150/285  L_cap=1.9274  L_dis=0.0000  total=1.9274  avg=1.9409
+[train] batch 200/285  L_cap=1.9457  L_dis=0.0000  total=1.9457  avg=1.9440
+[train] batch 250/285  L_cap=1.9534  L_dis=0.0000  total=1.9534  avg=1.9458
+[train] batch 285/285  L_cap=1.9438  L_dis=0.0000  total=1.9438  avg=1.9468
+[train] Epoch 80 done  avg_loss=1.9468
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , wearing a bikini , has a long appears to be to be looking surprised ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a child sit on a bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 81/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9335  L_dis=0.0000  total=1.9335  avg=1.9342
+[train] batch 100/285  L_cap=1.9706  L_dis=0.0000  total=1.9706  avg=1.9379
+[train] batch 150/285  L_cap=1.9655  L_dis=0.0000  total=1.9655  avg=1.9390
+[train] batch 200/285  L_cap=1.9345  L_dis=0.0000  total=1.9345  avg=1.9396
+[train] batch 250/285  L_cap=1.9443  L_dis=0.0000  total=1.9443  avg=1.9409
+[train] batch 285/285  L_cap=1.9255  L_dis=0.0000  total=1.9255  avg=1.9422
+[train] Epoch 81 done  avg_loss=1.9422
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway filled with other people .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , wearing a bikini , and a bikini , standing in front of a brick background ."
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man are sitting on a park or field .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 82/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9602  L_dis=0.0000  total=1.9602  avg=1.9360
+[train] batch 100/285  L_cap=1.9223  L_dis=0.0000  total=1.9223  avg=1.9350
+[train] batch 150/285  L_cap=1.9503  L_dis=0.0000  total=1.9503  avg=1.9351
+[train] batch 200/285  L_cap=1.9404  L_dis=0.0000  total=1.9404  avg=1.9370
+[train] batch 250/285  L_cap=1.9234  L_dis=0.0000  total=1.9234  avg=1.9378
+[train] batch 285/285  L_cap=1.9445  L_dis=0.0000  total=1.9445  avg=1.9391
+[train] Epoch 82 done  avg_loss=1.9391
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] A woman drinking from a mug and reading the paper .
+[val sample] Four young men are standing in a hallway with other players .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , gold bikini standing in front of a door to a door ."
+[val sample] Men playing soccer on red sand .
+[val sample] "Two baseball players on a field , with four spectators , and a crowd ."
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a child sit on a bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 83/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9413  L_dis=0.0000  total=1.9413  avg=1.9300
+[train] batch 100/285  L_cap=1.9468  L_dis=0.0000  total=1.9468  avg=1.9296
+[train] batch 150/285  L_cap=1.9268  L_dis=0.0000  total=1.9268  avg=1.9315
+[train] batch 200/285  L_cap=1.9249  L_dis=0.0000  total=1.9249  avg=1.9330
+[train] batch 250/285  L_cap=1.9032  L_dis=0.0000  total=1.9032  avg=1.9349
+[train] batch 285/285  L_cap=1.9886  L_dis=0.0000  total=1.9886  avg=1.9362
+[train] Epoch 83 done  avg_loss=1.9362
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange safety suit spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a room with other players .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , wearing a bikini , and a bikini , standing in front of a brick background ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 84/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9418  L_dis=0.0000  total=1.9418  avg=1.9299
+[train] batch 100/285  L_cap=1.9222  L_dis=0.0000  total=1.9222  avg=1.9324
+[train] batch 150/285  L_cap=1.9548  L_dis=0.0000  total=1.9548  avg=1.9324
+[train] batch 200/285  L_cap=1.9225  L_dis=0.0000  total=1.9225  avg=1.9328
+[train] batch 250/285  L_cap=1.9381  L_dis=0.0000  total=1.9381  avg=1.9343
+[train] batch 285/285  L_cap=1.9619  L_dis=0.0000  total=1.9619  avg=1.9352
+[train] Epoch 84 done  avg_loss=1.9352
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a run down alleyway posing for a picture .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 85/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9328  L_dis=0.0000  total=1.9328  avg=1.9262
+[train] batch 100/285  L_cap=1.9302  L_dis=0.0000  total=1.9302  avg=1.9291
+[train] batch 150/285  L_cap=1.9718  L_dis=0.0000  total=1.9718  avg=1.9298
+[train] batch 200/285  L_cap=1.9715  L_dis=0.0000  total=1.9715  avg=1.9309
+[train] batch 250/285  L_cap=1.9400  L_dis=0.0000  total=1.9400  avg=1.9316
+[train] batch 285/285  L_cap=1.9400  L_dis=0.0000  total=1.9400  avg=1.9326
+[train] Epoch 85 done  avg_loss=1.9326
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a run down alleyway posing for a picture .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] A woman in a white shirt standing in front of a brick wall .
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 86/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9599  L_dis=0.0000  total=1.9599  avg=1.9237
+[train] batch 100/285  L_cap=1.9268  L_dis=0.0000  total=1.9268  avg=1.9267
+[train] batch 150/285  L_cap=1.9322  L_dis=0.0000  total=1.9322  avg=1.9283
+[train] batch 200/285  L_cap=1.9180  L_dis=0.0000  total=1.9180  avg=1.9292
+[train] batch 250/285  L_cap=1.9519  L_dis=0.0000  total=1.9519  avg=1.9304
+[train] batch 285/285  L_cap=1.9359  L_dis=0.0000  total=1.9359  avg=1.9310
+[train] Epoch 86 done  avg_loss=1.9310
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A boy is making a funny face whilst making a face into a go kart .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a run down alleyway posing for a picture .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 87/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9174  L_dis=0.0000  total=1.9174  avg=1.9226
+[train] batch 100/285  L_cap=1.9139  L_dis=0.0000  total=1.9139  avg=1.9237
+[train] batch 150/285  L_cap=1.9464  L_dis=0.0000  total=1.9464  avg=1.9259
+[train] batch 200/285  L_cap=1.9379  L_dis=0.0000  total=1.9379  avg=1.9276
+[train] batch 250/285  L_cap=1.9491  L_dis=0.0000  total=1.9491  avg=1.9284
+[train] batch 285/285  L_cap=1.9332  L_dis=0.0000  total=1.9332  avg=1.9292
+[train] Epoch 87 done  avg_loss=1.9292
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A boy is making a funny face whilst making a face into a go kart .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a run down alleyway posing for a picture .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt , gold bikini standing in front of a brick wall ."
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 88/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.8957  L_dis=0.0000  total=1.8957  avg=1.9235
+[train] batch 100/285  L_cap=1.9121  L_dis=0.0000  total=1.9121  avg=1.9246
+[train] batch 150/285  L_cap=1.9294  L_dis=0.0000  total=1.9294  avg=1.9237
+[train] batch 200/285  L_cap=1.9360  L_dis=0.0000  total=1.9360  avg=1.9256
+[train] batch 250/285  L_cap=1.9191  L_dis=0.0000  total=1.9191  avg=1.9264
+[train] batch 285/285  L_cap=1.9406  L_dis=0.0000  total=1.9406  avg=1.9268
+[train] Epoch 88 done  avg_loss=1.9268
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is about to fall .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a room with other players .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a child sit on a bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 89/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9257  L_dis=0.0000  total=1.9257  avg=1.9219
+[train] batch 100/285  L_cap=1.9287  L_dis=0.0000  total=1.9287  avg=1.9221
+[train] batch 150/285  L_cap=1.9432  L_dis=0.0000  total=1.9432  avg=1.9230
+[train] batch 200/285  L_cap=1.9392  L_dis=0.0000  total=1.9392  avg=1.9242
+[train] batch 250/285  L_cap=1.9139  L_dis=0.0000  total=1.9139  avg=1.9248
+[train] batch 285/285  L_cap=1.9358  L_dis=0.0000  total=1.9358  avg=1.9254
+[train] Epoch 89 done  avg_loss=1.9254
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway with other players .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 90/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9313  L_dis=0.0000  total=1.9313  avg=1.9200
+[train] batch 100/285  L_cap=1.9340  L_dis=0.0000  total=1.9340  avg=1.9230
+[train] batch 150/285  L_cap=1.9222  L_dis=0.0000  total=1.9222  avg=1.9225
+[train] batch 200/285  L_cap=1.8924  L_dis=0.0000  total=1.8924  avg=1.9223
+[train] batch 250/285  L_cap=1.9036  L_dis=0.0000  total=1.9036  avg=1.9228
+[train] batch 285/285  L_cap=1.9483  L_dis=0.0000  total=1.9483  avg=1.9231
+[train] Epoch 90 done  avg_loss=1.9231
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two people sit at a table outside against a wall and make faces .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a short , brick background ."
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a child sit on a bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 91/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9096  L_dis=0.0000  total=1.9096  avg=1.9163
+[train] batch 100/285  L_cap=1.9111  L_dis=0.0000  total=1.9111  avg=1.9191
+[train] batch 150/285  L_cap=1.9035  L_dis=0.0000  total=1.9035  avg=1.9196
+[train] batch 200/285  L_cap=1.9237  L_dis=0.0000  total=1.9237  avg=1.9202
+[train] batch 250/285  L_cap=1.9355  L_dis=0.0000  total=1.9355  avg=1.9204
+[train] batch 285/285  L_cap=1.8943  L_dis=0.0000  total=1.8943  avg=1.9209
+[train] Epoch 91 done  avg_loss=1.9209
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is spraying water .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a room with other players .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a child sit on a bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 92/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.8850  L_dis=0.0000  total=1.8850  avg=1.9151
+[train] batch 100/285  L_cap=1.9078  L_dis=0.0000  total=1.9078  avg=1.9172
+[train] batch 150/285  L_cap=1.9129  L_dis=0.0000  total=1.9129  avg=1.9183
+[train] batch 200/285  L_cap=1.9320  L_dis=0.0000  total=1.9320  avg=1.9188
+[train] batch 250/285  L_cap=1.9207  L_dis=0.0000  total=1.9207  avg=1.9193
+[train] batch 285/285  L_cap=1.9366  L_dis=0.0000  total=1.9366  avg=1.9192
+[train] Epoch 92 done  avg_loss=1.9192
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a short , brick background ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 93/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.8954  L_dis=0.0000  total=1.8954  avg=1.9188
+[train] batch 100/285  L_cap=1.9168  L_dis=0.0000  total=1.9168  avg=1.9191
+[train] batch 150/285  L_cap=1.9286  L_dis=0.0000  total=1.9286  avg=1.9195
+[train] batch 200/285  L_cap=1.9338  L_dis=0.0000  total=1.9338  avg=1.9191
+[train] batch 250/285  L_cap=1.9237  L_dis=0.0000  total=1.9237  avg=1.9190
+[train] batch 285/285  L_cap=1.9321  L_dis=0.0000  total=1.9321  avg=1.9195
+[train] Epoch 93 done  avg_loss=1.9195
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog playing with a purple toy .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 94/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9295  L_dis=0.0000  total=1.9295  avg=1.9195
+[train] batch 100/285  L_cap=1.9235  L_dis=0.0000  total=1.9235  avg=1.9184
+[train] batch 150/285  L_cap=1.9334  L_dis=0.0000  total=1.9334  avg=1.9190
+[train] batch 200/285  L_cap=1.9289  L_dis=0.0000  total=1.9289  avg=1.9189
+[train] batch 250/285  L_cap=1.9407  L_dis=0.0000  total=1.9407  avg=1.9192
+[train] batch 285/285  L_cap=1.9186  L_dis=0.0000  total=1.9186  avg=1.9195
+[train] Epoch 94 done  avg_loss=1.9195
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a short , brick background ."
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a child sit on a bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 95/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9130  L_dis=0.0000  total=1.9130  avg=1.9168
+[train] batch 100/285  L_cap=1.9269  L_dis=0.0000  total=1.9269  avg=1.9181
+[train] batch 150/285  L_cap=1.9029  L_dis=0.0000  total=1.9029  avg=1.9176
+[train] batch 200/285  L_cap=1.8852  L_dis=0.0000  total=1.8852  avg=1.9183
+[train] batch 250/285  L_cap=1.9421  L_dis=0.0000  total=1.9421  avg=1.9184
+[train] batch 285/285  L_cap=1.8919  L_dis=0.0000  total=1.8919  avg=1.9180
+[train] Epoch 95 done  avg_loss=1.9180
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a short , brick background ."
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt runs through a field .
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 96/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9345  L_dis=0.0000  total=1.9345  avg=1.9125
+[train] batch 100/285  L_cap=1.9241  L_dis=0.0000  total=1.9241  avg=1.9134
+[train] batch 150/285  L_cap=1.9054  L_dis=0.0000  total=1.9054  avg=1.9154
+[train] batch 200/285  L_cap=1.9240  L_dis=0.0000  total=1.9240  avg=1.9159
+[train] batch 250/285  L_cap=1.9220  L_dis=0.0000  total=1.9220  avg=1.9168
+[train] batch 285/285  L_cap=1.9037  L_dis=0.0000  total=1.9037  avg=1.9169
+[train] Epoch 96 done  avg_loss=1.9169
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] They are playing with a soccer ball on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 97/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9057  L_dis=0.0000  total=1.9057  avg=1.9155
+[train] batch 100/285  L_cap=1.9433  L_dis=0.0000  total=1.9433  avg=1.9163
+[train] batch 150/285  L_cap=1.9301  L_dis=0.0000  total=1.9301  avg=1.9161
+[train] batch 200/285  L_cap=1.9211  L_dis=0.0000  total=1.9211  avg=1.9164
+[train] batch 250/285  L_cap=1.9105  L_dis=0.0000  total=1.9105  avg=1.9164
+[train] batch 285/285  L_cap=1.9501  L_dis=0.0000  total=1.9501  avg=1.9168
+[train] Epoch 97 done  avg_loss=1.9168
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a black shirt that says , "" Radio """
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 98/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9133  L_dis=0.0000  total=1.9133  avg=1.9141
+[train] batch 100/285  L_cap=1.9324  L_dis=0.0000  total=1.9324  avg=1.9148
+[train] batch 150/285  L_cap=1.9157  L_dis=0.0000  total=1.9157  avg=1.9153
+[train] batch 200/285  L_cap=1.8999  L_dis=0.0000  total=1.8999  avg=1.9159
+[train] batch 250/285  L_cap=1.9208  L_dis=0.0000  total=1.9208  avg=1.9162
+[train] batch 285/285  L_cap=1.9050  L_dis=0.0000  total=1.9050  avg=1.9160
+[train] Epoch 98 done  avg_loss=1.9160
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a short , brick background ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 99/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9170  L_dis=0.0000  total=1.9170  avg=1.9120
+[train] batch 100/285  L_cap=1.9278  L_dis=0.0000  total=1.9278  avg=1.9149
+[train] batch 150/285  L_cap=1.9229  L_dis=0.0000  total=1.9229  avg=1.9147
+[train] batch 200/285  L_cap=1.9038  L_dis=0.0000  total=1.9038  avg=1.9145
+[train] batch 250/285  L_cap=1.8965  L_dis=0.0000  total=1.8965  avg=1.9155
+[train] batch 285/285  L_cap=1.9183  L_dis=0.0000  total=1.9183  avg=1.9156
+[train] Epoch 99 done  avg_loss=1.9156
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a short , brick background ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[train] Epoch 100/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=1.9177  L_dis=0.0000  total=1.9177  avg=1.9145
+[train] batch 100/285  L_cap=1.9114  L_dis=0.0000  total=1.9114  avg=1.9155
+[train] batch 150/285  L_cap=1.9259  L_dis=0.0000  total=1.9259  avg=1.9168
+[train] batch 200/285  L_cap=1.9235  L_dis=0.0000  total=1.9235  avg=1.9156
+[train] batch 250/285  L_cap=1.9233  L_dis=0.0000  total=1.9233  avg=1.9157
+[train] batch 285/285  L_cap=1.9505  L_dis=0.0000  total=1.9505  avg=1.9158
+[train] Epoch 100 done  avg_loss=1.9158
+[val sample] A girl in a black coat next to some school kids .
+[val sample] A man in an orange construction uniform is working outside .
+[val sample] A little boy grinning with a go cart in the background .
+[val sample] An older woman is drinking tea and reading a newspaper .
+[val sample] Four young men are standing in a hallway .
+[val sample] Two older people drinking coffee outside .
+[val sample] Three people are dressed for a costume party .
+[val sample] "A woman in a white shirt wearing a short , brick background ."
+[val sample] Two young men play soccer on the beach .
+[val sample] Two men on opposite baseball teams dive for a baseball at homebase .
+[val sample] Three boys wearing Florida Marlins hats .
+[val sample] A dog bites purple fabric .
+[val sample] Two women and a man sitting on a park bench .
+[val sample] A brown dog in a pink shirt running through a field
+[val sample] A little girl screams while wearing bows in her hair .
+
+[validation] Final average validation loss over full set: 4.2775
+[checkpoint] wrote ckpt.part0 (50.00 MB)
+[checkpoint] wrote ckpt.part1 (50.00 MB)
+[checkpoint] wrote ckpt.part2 (24.00 MB)
+Saved split checkpoint with prefix 'ckpt.part*'
