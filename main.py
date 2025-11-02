@@ -6,16 +6,18 @@ def parse_args():
     p = argparse.ArgumentParser()
     p.add_argument("--img_root", default="flickr8k/Images", help="Path to images folder (e.g., flickr8k/Images)")
     p.add_argument("--caps_txt", default="flickr8k/captions.txt", help="Captions file (e.g., flickr8k/captions.txt)")
-    p.add_argument("--epochs", type=int, default=1)
-    p.add_argument("--batch", type=int, default=8)
-    p.add_argument("--device", default="cpu")
+    p.add_argument("--epochs", type=int, default=100)
+    p.add_argument("--batch", type=int, default=128)
+    p.add_argument("--device", default="cuda" if torch.cuda.is_available() else "cpu")
     p.add_argument("--save", default="ckpt.pt") #.pt file ( we split into multiple files each < 100 MB for github requirements!) is standard default file pytorch used to save model weights and tensors
-    p.add_argument("--num_workers", type=int, default=2) #Use more than 1 thread for data parallelism, not model parallelism.
+    p.add_argument("--num_workers", type=int, default=8) #Use more than 1 thread for data parallelism, not model parallelism.
     # quick sanity options:
-    p.add_argument("--max_train_batches", type=int, default=50, #TODO: Change this to None
+    p.add_argument("--max_train_batches", type=int, default=None, #TODO: Change this to None
                    help="Limit number of training batches per epoch (e.g., 50) for a quick run")
-    p.add_argument("--max_val_batches", type=int, default=10, #TODO: Change this to None
+    p.add_argument("--max_val_batches", type=int, default=5, 
                    help="Limit number of validation batches to print samples from")
+    p.add_argument("--no_distill", action="store_true",
+                help="Disable distillation loss (only use captioning loss).")
     return p.parse_args()
 
 def main():
@@ -36,6 +38,7 @@ def main():
         num_workers=args.num_workers,
         max_train_batches=args.max_train_batches,
         max_val_batches=args.max_val_batches,
+        use_distill=not args.no_distill,  
     )
 
 if __name__ == "__main__":

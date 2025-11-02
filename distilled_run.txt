@@ -1,0 +1,80 @@
+[dataset] Parsed 40455 pairs from 40456 lines; 0 lines had missing files.
+[dataset] Loaded 40455 (image, caption) pairs
+
+[train] Epoch 1/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=6.6782  L_dis=0.2597  total=6.8599  avg=8.4556
+[train] batch 100/285  L_cap=5.6310  L_dis=0.2661  total=5.8173  avg=7.3146
+[train] batch 150/285  L_cap=5.3703  L_dis=0.2538  total=5.5480  avg=6.7711
+[train] batch 200/285  L_cap=5.1408  L_dis=0.2537  total=5.3184  avg=6.4396
+[train] batch 250/285  L_cap=5.0373  L_dis=0.2579  total=5.2178  avg=6.2097
+[train] batch 285/285  L_cap=5.0022  L_dis=0.2654  total=5.1880  avg=6.0878
+[train] Epoch 1 done  avg_loss=6.0878
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a man in a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a man in a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a black shirt is running on a grass .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+[val sample] A man in a black shirt is running on a grass .
+[val sample] A man in a red shirt is standing on a red shirt and a red shirt .
+
+[train] Epoch 2/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=4.8965  L_dis=0.2498  total=5.0713  avg=5.0681
+[train] batch 100/285  L_cap=4.7466  L_dis=0.2427  total=4.9165  avg=5.0264
+[train] batch 150/285  L_cap=4.8699  L_dis=0.2467  total=5.0426  avg=4.9992
+[train] batch 200/285  L_cap=4.7198  L_dis=0.2382  total=4.8866  avg=4.9684
+[train] batch 250/285  L_cap=4.5859  L_dis=0.2361  total=4.7512  avg=4.9385
+[train] batch 285/285  L_cap=4.8256  L_dis=0.2449  total=4.9970  avg=4.9176
+[train] Epoch 2 done  avg_loss=4.9176
+[val sample] A man in a red shirt is sitting on a red and white shirt and a woman in a red shirt .
+[val sample] A man in a red shirt is sitting on a red shirt and a woman in a red shirt .
+[val sample] A man in a red shirt is standing on a red and white dog .
+[val sample] A man in a red shirt is standing on a street .
+[val sample] A man in a red shirt is sitting on a bench .
+[val sample] A man in a red shirt is standing on a street .
+[val sample] A man in a red shirt is sitting on a red shirt and a woman in a red shirt .
+[val sample] A man in a red shirt is standing on a bench .
+[val sample] A man in a red shirt is standing on a red and white dog .
+[val sample] A man in a red shirt is standing on a red and white dog .
+[val sample] A man in a red shirt is standing on a red and white dog .
+[val sample] A dog is running through the grass .
+[val sample] A man in a red shirt is sitting on a bench .
+[val sample] A man in a red shirt is standing on a red and white dog .
+[val sample] A man in a red shirt is holding a red ball .
+
+[train] Epoch 3/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)
+[train] batch 50/285  L_cap=4.5405  L_dis=0.2371  total=4.7064  avg=4.6920
+[train] batch 100/285  L_cap=4.5365  L_dis=0.2405  total=4.7049  avg=4.6771
+[train] batch 150/285  L_cap=4.3931  L_dis=0.2388  total=4.5603  avg=4.6611
+[train] batch 200/285  L_cap=4.3876  L_dis=0.2338  total=4.5512  avg=4.6464
+[train] batch 250/285  L_cap=4.2625  L_dis=0.2408  total=4.4310  avg=4.6304
+[train] batch 285/285  L_cap=4.2833  L_dis=0.2392  total=4.4507  avg=4.6205
+[train] Epoch 3 done  avg_loss=4.6205
+[val sample] A man in a blue shirt and a woman in a blue shirt and a blue shirt and a woman in a blue shirt .
+[val sample] A man in a red shirt and white shirt is sitting on a red bench .
+[val sample] A man in a blue shirt is standing on a swing .
+[val sample] A man in a blue shirt and a woman in a blue shirt and a white shirt and a man in a white shirt .
+[val sample] A man in a black shirt is standing on a skateboard .
+[val sample] A man in a blue shirt and a woman in a blue shirt and a white shirt and a white shirt and white shirt .
+[val sample] A man in a red shirt and white shirt is sitting on a red bench .
+[val sample] A man in a black shirt and white shirt is sitting on a rock wall .
+[val sample] A man in a blue shirt is sitting on a swing .
+[val sample] A man in a red shirt and white shirt is standing on a red bench .
+[val sample] A man in a blue shirt is sitting on a swing .
+[val sample] A man in a black shirt is standing on a swing .
+[val sample] A man in a blue shirt is sitting on a bench .
+[val sample] A little girl in a pink shirt is jumping over a red and white dog .
+[val sample] A man in a red shirt and white shirt is sitting on a red bench .
+
+[train] Epoch 4/100 — starting
+[train] Batches this epoch: 285 (batch_size=128)

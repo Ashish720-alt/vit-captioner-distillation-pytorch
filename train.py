@@ -12,15 +12,17 @@ from models.decoder import CausalDecoder
 from distillation import cosine_distill
 from utils import greedy_decode, save_checkpoint_split
 
+
+
 class Cfg: #Cfg == config
     # ----------------------------
     # Data & Training parameters
     # ----------------------------
     img_size = 224      # Input image size: images are resized to 224×224 pixels
-    lr = 3e-4           # Learning rate for AdamW optimizer
-    wd = 0.01           # Weight decay (L2 regularization) for AdamW
-    dropout = 0.1       # Dropout probability (10%) for regularization during training
-    distill_weight = 1.0  # Weight λ for the distillation loss term which occurs in the overall loss formula
+    lr = 2e-4           # Learning rate for AdamW optimizer
+    wd = 0.05           # Weight decay (L2 regularization) for AdamW
+    dropout = 0.05       # Dropout probability (10%) for regularization during training
+    distill_weight = 0.7  # Weight λ for the distillation loss term which occurs in the overall loss formula
     max_len = 32        # Maximum output caption length (in tokens)
 
     # ----------------------------
@@ -37,7 +39,7 @@ class Cfg: #Cfg == config
     # Causal Decoder (Text Generator) parameters
     # ----------------------------
     d_model = 256       # Hidden dimension for decoder token embeddings
-    n_layers = 2        # Number of Transformer decoder layers
+    n_layers = 3        # Number of Transformer decoder layers
     n_heads = 4         # Number of self-attention heads per decoder layer
     ffn_dim = 1024      # Feed-forward hidden size in each decoder layer
 
@@ -92,6 +94,7 @@ def run_training(
     num_workers=2,
     max_train_batches=None,
     max_val_batches=1,
+    use_distill=True, 
 ):
     cfg = Cfg()
 
@@ -182,8 +185,13 @@ def run_training(
             logits = decoder(s_feat, inp_ids)
 
             L_cap = ce_loss(logits, labels, pad_id)
-            L_dis = cosine_distill(s_feat, t_feat)
-            loss = L_cap + cfg.distill_weight * L_dis
+
+            if use_distill:
+                L_dis = cosine_distill(s_feat, t_feat)
+                loss = L_cap + cfg.distill_weight * L_dis
+            else:
+                L_dis = torch.tensor(0.0, device=device)
+                loss = L_cap
 
             optim.zero_grad()
             loss.backward()
@@ -194,7 +202,11 @@ def run_training(
             seen += bs
 
             if b_idx % 50 == 0 or b_idx == num_batches:
-                print(f"[train] batch {b_idx}/{num_batches}  loss={loss.item():.4f}  avg={tot_loss/max(1,seen):.4f}")
+                print(f"[train] batch {b_idx}/{num_batches}  "
+                    f"L_cap={L_cap.item():.4f}  "
+                    f"L_dis={L_dis.item():.4f}  "
+                    f"total={loss.item():.4f}  "
+                    f"avg={tot_loss/max(1,seen):.4f}")
 
         sched.step()
         print(f"[train] Epoch {epoch+1} done  avg_loss={tot_loss/max(1,seen):.4f}")
@@ -210,8 +222,26 @@ def run_training(
                     txt = greedy_decode(decoder, s_feat[i:i+1], tokenizer, max_len=cfg.max_len, device=device)
                     print(f"[val sample] {txt}")
                 printed += 1
-                if printed >= max_val_batches:
+                if max_val_batches is not None and printed >= max_val_batches:
                     break
+
+    # -------------------------------------------------------
+    # Final validation loss after all epochs (full validation set)
+    # -------------------------------------------------------
+    student.eval()
+    decoder.eval()
+    val_loss_total, val_seen = 0.0, 0
+    with torch.no_grad():
+        for imgs, inp_ids, labels in dl_va:
+            imgs, inp_ids, labels = imgs.to(device), inp_ids.to(device), labels.to(device)
+            s_feat = student(imgs)
+            logits = decoder(s_feat, inp_ids)
+            loss = ce_loss(logits, labels, pad_id)
+            val_loss_total += loss.item() * imgs.size(0)
+            val_seen += imgs.size(0)
+    avg_val_loss = val_loss_total / max(1, val_seen)
+    print(f"\n[validation] Final average validation loss over full set: {avg_val_loss:.4f}")
+
 
     state = {
         "student": student.state_dict(),
